@@ -1915,3 +1915,84 @@ The following settings have been applied:
 [2025.05.04-08.30.59:757][524]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1013.112122
 [2025.05.04-08.31.00:758][527]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.05.04-08.31.00:759][527]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1013.779602, Update Interval: 327.111420
+[2025.05.04-08.36.41:046][186]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1354.400269
+[2025.05.04-08.36.42:046][189]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-08.36.42:046][189]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1355.066772, Update Interval: 355.596191
+[2025.05.04-08.37.37:873][472]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Player.Player
+[2025.05.04-08.37.37:874][472]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.05.04-08.37.37:875][472]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_7'.
+[2025.05.04-08.37.38:333][472]LogSlate: Took 0.002972 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.05.04-08.43.04:328][779]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1737.680176
+[2025.05.04-08.43.05:328][782]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-08.43.05:328][782]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1738.346680, Update Interval: 310.596649
+[2025.05.04-08.48.49:038][813]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2082.389893
+[2025.05.04-08.48.50:037][816]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-08.48.50:037][816]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2083.056396, Update Interval: 337.228302
+[2025.05.04-08.55.07:427][948]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2460.776855
+[2025.05.04-08.55.08:429][951]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-08.55.08:429][951]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2461.444824, Update Interval: 354.354675
+[2025.05.04-09.01.40:824][128]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2854.170898
+[2025.05.04-09.01.41:824][131]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-09.01.41:824][131]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2854.837646, Update Interval: 303.070770
+[2025.05.04-09.07.29:544][174]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3202.889648
+[2025.05.04-09.07.30:544][177]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-09.07.30:544][177]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3203.555664, Update Interval: 309.547424
+[2025.05.04-09.38.38:859][956]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5072.197266
+[2025.05.04-09.38.39:180][966]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-09.38.39:181][966]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5072.484375, Update Interval: 351.117279
+[2025.05.04-09.43.34:763][324]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.04-09.43.34:906][324]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VRTemplate/Blueprints/Player] ([2] browsable assets)...
+[2025.05.04-09.43.34:906][324]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/Player]
+[2025.05.04-09.43.34:906][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/Player" FILE="../../../../../../Projects/vrspeed/Content/VRTemplate/Blueprints/Player.uasset" SILENT=true
+[2025.05.04-09.43.34:913][324]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Player
+[2025.05.04-09.43.34:914][324]LogSavePackage: Moving '../../../../../../Projects/vrspeed/Saved/Player56E143574B70A03CA408098835566BB8.tmp' to '../../../../../../Projects/vrspeed/Content/VRTemplate/Blueprints/Player.uasset'
+[2025.05.04-09.43.34:961][324]LogFileHelpers: InternalPromptForCheckoutAndSave took 197.413 ms (total: 1.05 sec)
+[2025.05.04-09.43.35:040][324]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.04-09.43.35:040][324]LogContentValidation: Enabled validators:
+[2025.05.04-09.43.35:040][324]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.04-09.43.35:040][324]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.04-09.43.35:040][324]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.04-09.43.35:040][324]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.04-09.43.35:040][324]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.04-09.43.35:040][324]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.04-09.43.35:040][324]AssetCheck: /Game/VRTemplate/Blueprints/Player 에셋 유효성 검사 중
+[2025.05.04-09.43.37:377][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.05.04-09.44.05:141][138]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.04-09.44.05:308][138]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VRTemplate/Blueprints/Player] ([2] browsable assets)...
+[2025.05.04-09.44.05:308][138]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/Player]
+[2025.05.04-09.44.05:308][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/Player" FILE="../../../../../../Projects/vrspeed/Content/VRTemplate/Blueprints/Player.uasset" SILENT=true
+[2025.05.04-09.44.05:314][138]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Player
+[2025.05.04-09.44.05:315][138]LogSavePackage: Moving '../../../../../../Projects/vrspeed/Saved/Player65004F864C03AF3BDA49548387FC1A14.tmp' to '../../../../../../Projects/vrspeed/Content/VRTemplate/Blueprints/Player.uasset'
+[2025.05.04-09.44.05:361][138]LogFileHelpers: InternalPromptForCheckoutAndSave took 219.672 ms (total: 1.26 sec)
+[2025.05.04-09.44.05:439][138]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.04-09.44.05:439][138]LogContentValidation: Enabled validators:
+[2025.05.04-09.44.05:439][138]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.04-09.44.05:439][138]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.04-09.44.05:440][138]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.04-09.44.05:440][138]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.04-09.44.05:440][138]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.04-09.44.05:440][138]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.04-09.44.05:440][138]AssetCheck: /Game/VRTemplate/Blueprints/Player 에셋 유효성 검사 중
+[2025.05.04-09.44.06:141][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.05.04-09.44.26:177][304]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.04-09.44.26:320][304]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VRTemplate/Blueprints/Player] ([2] browsable assets)...
+[2025.05.04-09.44.26:320][304]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/Player]
+[2025.05.04-09.44.26:320][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/Player" FILE="../../../../../../Projects/vrspeed/Content/VRTemplate/Blueprints/Player.uasset" SILENT=true
+[2025.05.04-09.44.26:324][304]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Player
+[2025.05.04-09.44.26:325][304]LogSavePackage: Moving '../../../../../../Projects/vrspeed/Saved/Player39AA00E44022F0A925746D9C7CD17AE2.tmp' to '../../../../../../Projects/vrspeed/Content/VRTemplate/Blueprints/Player.uasset'
+[2025.05.04-09.44.26:372][304]LogFileHelpers: InternalPromptForCheckoutAndSave took 193.833 ms (total: 1.46 sec)
+[2025.05.04-09.44.26:453][304]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.04-09.44.26:455][304]LogContentValidation: Enabled validators:
+[2025.05.04-09.44.26:455][304]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.04-09.44.26:455][304]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.04-09.44.26:455][304]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.04-09.44.26:455][304]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.04-09.44.26:455][304]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.04-09.44.26:455][304]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.04-09.44.26:455][304]AssetCheck: /Game/VRTemplate/Blueprints/Player 에셋 유효성 검사 중
+[2025.05.04-09.44.30:140][385]LogSlate: Window 'Player' being destroyed
+[2025.05.04-09.44.30:144][385]LogSlate: Window 'Player' being destroyed
+[2025.05.04-09.44.30:147][385]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.05.04-09.44.30:147][385]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.04-09.44.30:350][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.05.04-09.44.53:767][464]LogDerivedDataCache: C:/Users/bvb09/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
