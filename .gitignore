@@ -1,0 +1,14 @@
+# Ignore Binaries, Intermediate, Build, Saved
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+.vscode/
+*.sln
+*.opensdf
+*.sdf
+*.suo
+*.tmp
+*.log
+*.user
