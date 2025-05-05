@@ -2406,3 +2406,173 @@ The following settings have been applied:
 [2025.05.05-03.43.29:855][814]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.05.05-03.43.29:855][814]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.05.05-03.43.29:856][814]AssetCheck: /Game/VRTemplate/Blueprints/WBP_SpeedTablet 에셋 유효성 검사 중
+[2025.05.05-03.44.30:213][200]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/VRTemplate/Blueprints/WBP_SpeedTablet.WBP_SpeedTablet
+[2025.05.05-03.44.30:215][200]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2025.05.05-03.44.30:216][200]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_24'.
+[2025.05.05-03.44.30:229][200]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2025.05.05-03.44.30:229][200]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_25'.
+[2025.05.05-03.47.16:458][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.05.05-03.47.16:466][948]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.117
+[2025.05.05-03.47.16:467][948]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet] ([2] browsable assets)...
+[2025.05.05-03.47.16:471][948]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/VRTemplate/Blueprints/WBP_SpeedTablet.WBP_SpeedTablet]
+[2025.05.05-03.47.16:471][948]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet]
+[2025.05.05-03.47.16:480][948]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/WBP_SpeedTablet_Auto2
+[2025.05.05-03.47.16:480][948]LogSavePackage: Moving '../../../../../../Projects/vrspeed/Saved/WBP_SpeedTablet_Auto2BA36BA894CCD7FB499289094A37E22B8.tmp' to '../../../../../../Projects/vrspeed/Saved/Autosaves/Game/VRTemplate/Blueprints/WBP_SpeedTablet_Auto2.uasset'
+[2025.05.05-03.47.16:481][948]LogFileHelpers: Auto-saving content packages took 0.016
+[2025.05.05-03.47.24:719][ 26]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2131.950684
+[2025.05.05-03.47.25:186][ 34]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.05-03.47.25:186][ 34]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2132.384277, Update Interval: 302.924286
+[2025.05.05-03.48.05:003][710]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.05-03.48.05:150][710]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet] ([2] browsable assets)...
+[2025.05.05-03.48.05:165][710]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/VRTemplate/Blueprints/WBP_SpeedTablet.WBP_SpeedTablet]
+[2025.05.05-03.48.05:165][710]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet]
+[2025.05.05-03.48.05:165][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/WBP_SpeedTablet" FILE="../../../../../../Projects/vrspeed/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset" SILENT=true
+[2025.05.05-03.48.05:175][710]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/WBP_SpeedTablet
+[2025.05.05-03.48.05:176][710]LogSavePackage: Moving '../../../../../../Projects/vrspeed/Saved/WBP_SpeedTablet7F4175C74D09910F109B1B95980C12D5.tmp' to '../../../../../../Projects/vrspeed/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset'
+[2025.05.05-03.48.05:205][710]LogFileHelpers: InternalPromptForCheckoutAndSave took 202.579 ms (total: 1.73 sec)
+[2025.05.05-03.48.05:283][710]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.05-03.48.05:283][710]LogContentValidation: Enabled validators:
+[2025.05.05-03.48.05:283][710]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.05-03.48.05:283][710]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.05-03.48.05:283][710]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.05-03.48.05:283][710]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.05-03.48.05:283][710]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.05-03.48.05:283][710]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.05-03.48.05:284][710]AssetCheck: /Game/VRTemplate/Blueprints/WBP_SpeedTablet 에셋 유효성 검사 중
+[2025.05.05-03.48.05:837][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.05.05-03.48.07:361][760]LogSlate: Window 'WBP_SpeedTablet' being destroyed
+[2025.05.05-03.48.07:415][760]LogSlate: Window 'WBP_SpeedTablet' being destroyed
+[2025.05.05-03.48.07:425][760]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-03.48.07:425][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-03.48.07:434][760]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-03.48.07:434][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-03.48.07:493][760]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2025.05.05-03.48.12:057][ 18]LogContentBrowser: Attempting asset rename: WBP_SpeedTablet -> WBP_SpeedTablet
+[2025.05.05-03.48.12:217][ 27]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/VRTemplate/Blueprints/WBP_SpeedTablet.WBP_SpeedTablet
+[2025.05.05-03.48.12:217][ 27]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2025.05.05-03.48.12:218][ 27]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_27'.
+[2025.05.05-03.48.12:232][ 27]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2025.05.05-03.48.12:233][ 27]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_28'.
+[2025.05.05-03.51.41:864][722]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.05-03.51.42:013][722]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet] ([2] browsable assets)...
+[2025.05.05-03.51.42:032][722]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/VRTemplate/Blueprints/WBP_SpeedTablet.WBP_SpeedTablet]
+[2025.05.05-03.51.42:032][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet]
+[2025.05.05-03.51.42:032][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/WBP_SpeedTablet" FILE="../../../../../../Projects/vrspeed/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset" SILENT=true
+[2025.05.05-03.51.42:040][722]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/WBP_SpeedTablet
+[2025.05.05-03.51.42:041][722]LogSavePackage: Moving '../../../../../../Projects/vrspeed/Saved/WBP_SpeedTablet04AD82A949CBE8F1602805B9ADABC30B.tmp' to '../../../../../../Projects/vrspeed/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset'
+[2025.05.05-03.51.42:069][722]LogFileHelpers: InternalPromptForCheckoutAndSave took 206.067 ms (total: 1.93 sec)
+[2025.05.05-03.51.42:163][722]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.05-03.51.42:163][722]LogContentValidation: Enabled validators:
+[2025.05.05-03.51.42:163][722]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.05-03.51.42:163][722]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.05-03.51.42:163][722]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.05-03.51.42:163][722]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.05-03.51.42:163][722]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.05-03.51.42:163][722]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.05-03.51.42:164][722]AssetCheck: /Game/VRTemplate/Blueprints/WBP_SpeedTablet 에셋 유효성 검사 중
+[2025.05.05-03.51.58:797][871]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.05-03.51.58:946][871]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet] ([2] browsable assets)...
+[2025.05.05-03.51.58:946][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet]
+[2025.05.05-03.51.58:946][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/WBP_SpeedTablet" FILE="../../../../../../Projects/vrspeed/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset" SILENT=true
+[2025.05.05-03.51.58:955][871]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/WBP_SpeedTablet
+[2025.05.05-03.51.58:956][871]LogSavePackage: Moving '../../../../../../Projects/vrspeed/Saved/WBP_SpeedTablet9FE4BC0B43983D73703593A48395391A.tmp' to '../../../../../../Projects/vrspeed/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset'
+[2025.05.05-03.51.58:999][871]LogFileHelpers: InternalPromptForCheckoutAndSave took 202.241 ms (total: 2.13 sec)
+[2025.05.05-03.51.59:078][871]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.05-03.51.59:078][871]LogContentValidation: Enabled validators:
+[2025.05.05-03.51.59:078][871]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.05-03.51.59:078][871]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.05-03.51.59:078][871]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.05-03.51.59:078][871]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.05-03.51.59:078][871]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.05-03.51.59:078][871]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.05-03.51.59:079][871]AssetCheck: /Game/VRTemplate/Blueprints/WBP_SpeedTablet 에셋 유효성 검사 중
+[2025.05.05-03.51.59:590][884]LogBlueprint: Warning: [AssetLog] C:\Projects\vrspeed\Content\VRTemplate\Blueprints\WBP_SpeedTablet.uasset: [Compiler] Cast To Player  : 실행 핀이 연결되지 않아 정리하였습니다. 연결된 값을 사용할 수 없어 디폴트로 읽습니다.
+[2025.05.05-03.51.59:590][884]LogBlueprint: Error: [AssetLog] C:\Projects\vrspeed\Content\VRTemplate\Blueprints\WBP_SpeedTablet.uasset: [Compiler] 이 블루프린트(셀프)는 Player_C 이지 않으므로, ' Target '에 연결이 있어야 합니다.
+[2025.05.05-03.51.59:591][884]LogBlueprint: Error: [AssetLog] C:\Projects\vrspeed\Content\VRTemplate\Blueprints\WBP_SpeedTablet.uasset: [Compiler] Get SpeedOpt  변수 노드가 유효하지 않은 타깃을 사용합니다. 실행 체인에 연결되지 않았다가 제거된 노드에 의존하는 것 같습니다.
+[2025.05.05-03.51.59:683][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.05.05-03.53.18:718][ 36]LogBlueprint: Warning: [AssetLog] C:\Projects\vrspeed\Content\VRTemplate\Blueprints\WBP_SpeedTablet.uasset: [Compiler] Cast To Player  : 실행 핀이 연결되지 않아 정리하였습니다. 연결된 값을 사용할 수 없어 디폴트로 읽습니다.
+[2025.05.05-03.53.18:718][ 36]LogBlueprint: Error: [AssetLog] C:\Projects\vrspeed\Content\VRTemplate\Blueprints\WBP_SpeedTablet.uasset: [Compiler] 이 블루프린트(셀프)는 Player_C 이지 않으므로, ' Target '에 연결이 있어야 합니다.
+[2025.05.05-03.53.18:719][ 36]LogBlueprint: Error: [AssetLog] C:\Projects\vrspeed\Content\VRTemplate\Blueprints\WBP_SpeedTablet.uasset: [Compiler] Get SpeedOpt  변수 노드가 유효하지 않은 타깃을 사용합니다. 실행 체인에 연결되지 않았다가 제거된 노드에 의존하는 것 같습니다.
+[2025.05.05-03.53.18:749][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.05.05-03.53.27:518][112]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2494.745117
+[2025.05.05-03.53.28:521][115]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.05-03.53.28:521][115]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2495.419434, Update Interval: 351.172211
+[2025.05.05-03.54.17:090][706]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.05-03.54.17:225][706]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet] ([2] browsable assets)...
+[2025.05.05-03.54.17:241][706]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/VRTemplate/Blueprints/WBP_SpeedTablet.WBP_SpeedTablet]
+[2025.05.05-03.54.17:242][706]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet]
+[2025.05.05-03.54.17:242][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/WBP_SpeedTablet" FILE="../../../../../../Projects/vrspeed/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset" SILENT=true
+[2025.05.05-03.54.17:253][706]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/WBP_SpeedTablet
+[2025.05.05-03.54.17:254][706]LogSavePackage: Moving '../../../../../../Projects/vrspeed/Saved/WBP_SpeedTablet260595A74BAA149C0743099061BD3E4D.tmp' to '../../../../../../Projects/vrspeed/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset'
+[2025.05.05-03.54.17:282][706]LogFileHelpers: InternalPromptForCheckoutAndSave took 191.919 ms (total: 2.33 sec)
+[2025.05.05-03.54.17:358][706]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.05-03.54.17:358][706]LogContentValidation: Enabled validators:
+[2025.05.05-03.54.17:358][706]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.05-03.54.17:358][706]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.05-03.54.17:359][706]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.05-03.54.17:359][706]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.05-03.54.17:359][706]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.05-03.54.17:359][706]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.05-03.54.17:360][706]AssetCheck: /Game/VRTemplate/Blueprints/WBP_SpeedTablet 에셋 유효성 검사 중
+[2025.05.05-03.54.18:031][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.05.05-03.54.20:138][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.05.05-03.54.46:503][970]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.05-03.54.46:639][970]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet] ([2] browsable assets)...
+[2025.05.05-03.54.46:655][970]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/VRTemplate/Blueprints/WBP_SpeedTablet.WBP_SpeedTablet]
+[2025.05.05-03.54.46:655][970]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet]
+[2025.05.05-03.54.46:655][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/WBP_SpeedTablet" FILE="../../../../../../Projects/vrspeed/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset" SILENT=true
+[2025.05.05-03.54.46:663][970]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/WBP_SpeedTablet
+[2025.05.05-03.54.46:664][970]LogSavePackage: Moving '../../../../../../Projects/vrspeed/Saved/WBP_SpeedTabletAA1743724A88ADE1C58A4E9D4E395831.tmp' to '../../../../../../Projects/vrspeed/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset'
+[2025.05.05-03.54.46:693][970]LogFileHelpers: InternalPromptForCheckoutAndSave took 189.481 ms (total: 2.52 sec)
+[2025.05.05-03.54.46:770][970]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.05-03.54.46:770][970]LogContentValidation: Enabled validators:
+[2025.05.05-03.54.46:770][970]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.05-03.54.46:770][970]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.05-03.54.46:770][970]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.05-03.54.46:770][970]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.05-03.54.46:770][970]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.05-03.54.46:770][970]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.05-03.54.46:772][970]AssetCheck: /Game/VRTemplate/Blueprints/WBP_SpeedTablet 에셋 유효성 검사 중
+[2025.05.05-03.54.52:156][109]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-03.54.52:157][109]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-03.54.52:160][109]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-03.54.52:245][110]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-03.54.52:277][111]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-03.54.52:280][111]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-03.54.52:285][111]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-03.54.52:360][112]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-03.54.52:363][112]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-03.54.52:379][112]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-03.54.52:484][114]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-03.54.52:501][114]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-03.54.52:523][115]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-03.54.52:636][117]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-03.54.52:714][118]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-03.54.52:716][118]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-03.54.52:733][118]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-03.54.52:848][120]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-03.54.52:867][121]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-03.54.55:254][191]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.05-03.54.55:393][191]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet] ([2] browsable assets)...
+[2025.05.05-03.54.55:408][191]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/VRTemplate/Blueprints/WBP_SpeedTablet.WBP_SpeedTablet]
+[2025.05.05-03.54.55:409][191]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet]
+[2025.05.05-03.54.55:409][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/WBP_SpeedTablet" FILE="../../../../../../Projects/vrspeed/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset" SILENT=true
+[2025.05.05-03.54.55:420][191]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/WBP_SpeedTablet
+[2025.05.05-03.54.55:421][191]LogSavePackage: Moving '../../../../../../Projects/vrspeed/Saved/WBP_SpeedTablet9FD41B8C4BC4A09BD6204BA181AA2CC3.tmp' to '../../../../../../Projects/vrspeed/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset'
+[2025.05.05-03.54.55:446][191]LogFileHelpers: InternalPromptForCheckoutAndSave took 191.720 ms (total: 2.71 sec)
+[2025.05.05-03.54.55:521][191]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.05-03.54.55:522][191]LogContentValidation: Enabled validators:
+[2025.05.05-03.54.55:522][191]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.05-03.54.55:522][191]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.05-03.54.55:522][191]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.05-03.54.55:522][191]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.05-03.54.55:522][191]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.05-03.54.55:522][191]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.05-03.54.55:524][191]AssetCheck: /Game/VRTemplate/Blueprints/WBP_SpeedTablet 에셋 유효성 검사 중
+[2025.05.05-03.54.59:833][319]LogSlate: Window 'WBP_SpeedTablet' being destroyed
+[2025.05.05-03.54.59:883][319]LogSlate: Window 'WBP_SpeedTablet' being destroyed
+[2025.05.05-03.54.59:898][319]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-03.54.59:898][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-03.54.59:906][319]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-03.54.59:906][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-03.54.59:986][319]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
