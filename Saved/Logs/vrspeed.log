@@ -2576,3 +2576,357 @@ The following settings have been applied:
 [2025.05.05-03.54.59:906][319]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
 [2025.05.05-03.54.59:906][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.05.05-03.54.59:986][319]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2025.05.05-03.56.53:013][ 75]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.05.05-03.56.53:023][ 75]LogPlayLevel: [PlayLevel] Compiling WBP_SpeedTablet before play...
+[2025.05.05-03.56.53:057][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.05.05-03.56.53:061][ 75]LogPlayLevel: PlayLevel: Blueprint regeneration took 38 ms (1 blueprints)
+[2025.05.05-03.56.53:069][ 75]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.05.05-03.56.53:070][ 75]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.05.05-03.56.53:070][ 75]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2025.05.05-03.56.53:080][ 75]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009837s)
+[2025.05.05-03.56.53:080][ 75]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.009942s)
+[2025.05.05-03.56.53:107][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.05.05-03.56.53:109][ 75]LogChaosDD: Creating Chaos Debug Draw Scene for world VRTemplateMap
+[2025.05.05-03.56.53:110][ 75]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap'.
+[2025.05.05-03.56.53:111][ 75]LogPlayLevel: PIE: World Init took: (0.002002s)
+[2025.05.05-03.56.53:113][ 75]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.05.05-03.56.53:113][ 75]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.05-03.56.53:113][ 75]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.05-03.56.53:113][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.05-03.56.53:113][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.05-03.56.53:113][ 75]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.05-03.56.53:113][ 75]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.05-03.56.53:113][ 75]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.05-03.56.53:113][ 75]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.05-03.56.53:113][ 75]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.05-03.56.53:113][ 75]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.05-03.56.53:113][ 75]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.05-03.56.53:116][ 75]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.05-03.56.53:165][ 75]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.05.05-03.56.53:166][ 75]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.05-03.56.53:166][ 75]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.05-03.56.53:166][ 75]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.05-03.56.53:166][ 75]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.05.05-03.56.53:166][ 75]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.05.05-03.56.53:169][ 75]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.05.05-03.56.53:169][ 75]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.05.05-03.56.53:169][ 75]LogInit: FAudioDevice initialized with ID 2.
+[2025.05.05-03.56.53:169][ 75]LogAudio: Display: Audio Device (ID: 2) registered with world 'VRTemplateMap'.
+[2025.05.05-03.56.53:169][ 75]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.05.05-03.56.53:174][ 75]LogLoad: Game class is 'VRGameMode_C'
+[2025.05.05-03.56.53:177][ 75]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2025.05.05-12.56.53
+[2025.05.05-03.56.53:177][ 75]LogWorld: Bringing up level for play took: 0.002100
+[2025.05.05-03.56.53:181][ 75]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2025.05.05-03.56.53:191][ 75]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.05.05-03.56.53:192][ 75]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.05.05-03.56.53:197][ 75]PIE: 서버가 로그인했습니다.
+[2025.05.05-03.56.53:199][ 75]PIE: 에디터에서 플레이 총 시작 시간 0.178초입니다.
+[2025.05.05-03.57.07:081][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.05-03.57.07:081][883]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2025.05.05-03.57.07:082][883]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-03.57.07:082][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-03.57.07:088][883]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.05-03.57.07:096][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-03.57.07:124][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.05-03.57.07:125][883]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.05.05-03.57.07:125][883]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.05.05-03.57.07:127][883]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.05.05-03.57.07:135][883]LogSlate: Slate User Unregistered.  User Index 8
+[2025.05.05-03.57.07:135][883]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.05.05-03.57.07:138][883]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2025.05.05-03.57.07:165][884]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2025.05.05-03.57.15:670][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.05.05-03.57.26:829][470]LogDebuggerCommands: Repeating last play command: 독립형 게임
+[2025.05.05-03.57.26:866][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.05.05-03.57.51:818][937]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/VRTemplate/Blueprints/WBP_SpeedTablet.WBP_SpeedTablet
+[2025.05.05-03.57.51:820][937]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_34
+[2025.05.05-03.57.51:821][937]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_34'.
+[2025.05.05-03.57.51:833][937]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2025.05.05-03.57.51:834][937]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_35'.
+[2025.05.05-03.59.02:302][379]LogSlate: Window '색 선택 툴' being destroyed
+[2025.05.05-03.59.11:204][605]LogSlate: Window '색 선택 툴' being destroyed
+[2025.05.05-03.59.15:294][686]LogSlate: Window '색 선택 툴' being destroyed
+[2025.05.05-03.59.23:782][861]LogSlate: Window '색 선택 툴' being destroyed
+[2025.05.05-03.59.59:697][871]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2886.920898
+[2025.05.05-04.00.00:015][881]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.05-04.00.00:016][881]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2887.209473, Update Interval: 313.667419
+[2025.05.05-04.01.38:016][513]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-04.01.38:018][513]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-04.01.38:022][513]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-04.01.38:123][514]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-04.01.38:149][514]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-04.01.38:281][516]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-04.01.38:299][517]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-04.01.40:100][564]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-04.01.40:101][564]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-04.01.40:107][564]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-04.01.40:200][565]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-04.01.40:221][565]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-04.01.40:241][566]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-04.01.40:243][566]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-04.01.40:334][567]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-04.01.40:362][567]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-04.01.40:384][568]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-04.01.40:515][570]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-04.01.40:520][570]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-04.01.40:606][571]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-04.01.40:640][571]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-04.01.40:659][572]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-04.01.40:751][573]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-04.01.40:775][573]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-04.01.40:796][574]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-04.01.40:801][574]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-04.01.40:887][575]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-04.01.40:930][576]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-04.01.40:931][576]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-04.01.40:936][576]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-04.01.41:027][577]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-04.01.41:054][577]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-04.01.41:075][578]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-04.01.41:167][579]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.05.05-04.02.31:826][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.05.05-04.02.31:830][313]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.054
+[2025.05.05-04.02.31:831][313]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet] ([2] browsable assets)...
+[2025.05.05-04.02.31:834][313]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/VRTemplate/Blueprints/WBP_SpeedTablet.WBP_SpeedTablet]
+[2025.05.05-04.02.31:834][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet]
+[2025.05.05-04.02.31:841][313]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/WBP_SpeedTablet_Auto3
+[2025.05.05-04.02.31:841][313]LogSavePackage: Moving '../../../../../../Projects/vrspeed/Saved/WBP_SpeedTablet_Auto3A8951D2146118BA10B158DB0DC64D316.tmp' to '../../../../../../Projects/vrspeed/Saved/Autosaves/Game/VRTemplate/Blueprints/WBP_SpeedTablet_Auto3.uasset'
+[2025.05.05-04.02.31:842][313]LogFileHelpers: Auto-saving content packages took 0.013
+[2025.05.05-04.02.35:969][366]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.05-04.02.36:077][366]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet] ([2] browsable assets)...
+[2025.05.05-04.02.36:077][366]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet]
+[2025.05.05-04.02.36:077][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/WBP_SpeedTablet" FILE="../../../../../../Projects/vrspeed/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset" SILENT=true
+[2025.05.05-04.02.36:085][366]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/WBP_SpeedTablet
+[2025.05.05-04.02.36:086][366]LogSavePackage: Moving '../../../../../../Projects/vrspeed/Saved/WBP_SpeedTabletE486538E49304A2BA62A2A8AD75E83E5.tmp' to '../../../../../../Projects/vrspeed/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset'
+[2025.05.05-04.02.36:126][366]LogFileHelpers: InternalPromptForCheckoutAndSave took 158.163 ms (total: 2.87 sec)
+[2025.05.05-04.02.36:211][366]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.05-04.02.36:211][366]LogContentValidation: Enabled validators:
+[2025.05.05-04.02.36:211][366]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.05-04.02.36:211][366]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.05-04.02.36:211][366]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.05-04.02.36:211][366]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.05-04.02.36:211][366]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.05-04.02.36:211][366]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.05-04.02.36:212][366]AssetCheck: /Game/VRTemplate/Blueprints/WBP_SpeedTablet 에셋 유효성 검사 중
+[2025.05.05-04.03.34:159][824]LogEditorTransaction: Undo 앵커 이동
+[2025.05.05-04.03.34:597][827]LogEditorTransaction: Undo 앵커 이동
+[2025.05.05-04.03.34:889][828]LogEditorTransaction: Undo 위젯 대체
+[2025.05.05-04.04.33:832][169]LogSlate: Window '색 선택 툴' being destroyed
+[2025.05.05-04.04.42:751][406]LogSlate: Window '색 선택 툴' being destroyed
+[2025.05.05-04.04.45:648][479]LogSlate: Window '색 선택 툴' being destroyed
+[2025.05.05-04.04.53:828][639]LogSlate: Window '색 선택 툴' being destroyed
+[2025.05.05-04.04.58:946][758]LogSlate: Window '색 선택 툴' being destroyed
+[2025.05.05-04.05.03:209][857]LogSlate: Window '색 선택 툴' being destroyed
+[2025.05.05-04.05.11:274][ 15]LogSlate: Window '색 선택 툴' being destroyed
+[2025.05.05-04.05.57:235][316]LogSlate: Window '색 선택 툴' being destroyed
+[2025.05.05-04.06.12:379][732]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3259.595947
+[2025.05.05-04.06.12:714][739]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.05-04.06.12:714][739]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3259.883057, Update Interval: 300.144653
+[2025.05.05-04.07.01:894][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.05-04.07.02:044][ 76]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet] ([2] browsable assets)...
+[2025.05.05-04.07.02:060][ 76]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/VRTemplate/Blueprints/WBP_SpeedTablet.WBP_SpeedTablet]
+[2025.05.05-04.07.02:060][ 76]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet]
+[2025.05.05-04.07.02:060][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/WBP_SpeedTablet" FILE="../../../../../../Projects/vrspeed/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset" SILENT=true
+[2025.05.05-04.07.02:074][ 76]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/WBP_SpeedTablet
+[2025.05.05-04.07.02:075][ 76]LogSavePackage: Moving '../../../../../../Projects/vrspeed/Saved/WBP_SpeedTablet5F632CBE4EA0887ABDB2AAB6C61C83C1.tmp' to '../../../../../../Projects/vrspeed/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset'
+[2025.05.05-04.07.02:099][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave took 206.026 ms (total: 3.07 sec)
+[2025.05.05-04.07.02:178][ 76]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.05-04.07.02:178][ 76]LogContentValidation: Enabled validators:
+[2025.05.05-04.07.02:178][ 76]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.05-04.07.02:178][ 76]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.05-04.07.02:178][ 76]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.05-04.07.02:178][ 76]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.05-04.07.02:178][ 76]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.05-04.07.02:178][ 76]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.05-04.07.02:179][ 76]AssetCheck: /Game/VRTemplate/Blueprints/WBP_SpeedTablet 에셋 유효성 검사 중
+[2025.05.05-04.08.52:267][986]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.05-04.08.52:409][986]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet] ([2] browsable assets)...
+[2025.05.05-04.08.52:426][986]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/VRTemplate/Blueprints/WBP_SpeedTablet.WBP_SpeedTablet]
+[2025.05.05-04.08.52:427][986]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet]
+[2025.05.05-04.08.52:427][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/WBP_SpeedTablet" FILE="../../../../../../Projects/vrspeed/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset" SILENT=true
+[2025.05.05-04.08.52:439][986]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/WBP_SpeedTablet
+[2025.05.05-04.08.52:440][986]LogSavePackage: Moving '../../../../../../Projects/vrspeed/Saved/WBP_SpeedTablet276C100E4F92E8972AABDCBC1E6EAF1C.tmp' to '../../../../../../Projects/vrspeed/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset'
+[2025.05.05-04.08.52:465][986]LogFileHelpers: InternalPromptForCheckoutAndSave took 198.880 ms (total: 3.27 sec)
+[2025.05.05-04.08.52:557][986]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.05-04.08.52:557][986]LogContentValidation: Enabled validators:
+[2025.05.05-04.08.52:557][986]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.05-04.08.52:557][986]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.05-04.08.52:557][986]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.05-04.08.52:557][986]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.05-04.08.52:557][986]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.05-04.08.52:557][986]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.05-04.08.52:559][986]AssetCheck: /Game/VRTemplate/Blueprints/WBP_SpeedTablet 에셋 유효성 검사 중
+[2025.05.05-04.09.10:135][522]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.05-04.09.10:274][522]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet] ([2] browsable assets)...
+[2025.05.05-04.09.10:291][522]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/VRTemplate/Blueprints/WBP_SpeedTablet.WBP_SpeedTablet]
+[2025.05.05-04.09.10:291][522]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet]
+[2025.05.05-04.09.10:291][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/WBP_SpeedTablet" FILE="../../../../../../Projects/vrspeed/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset" SILENT=true
+[2025.05.05-04.09.10:304][522]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/WBP_SpeedTablet
+[2025.05.05-04.09.10:305][522]LogSavePackage: Moving '../../../../../../Projects/vrspeed/Saved/WBP_SpeedTabletABF7ECC74F77E93D1040A89BAD4B6283.tmp' to '../../../../../../Projects/vrspeed/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset'
+[2025.05.05-04.09.10:331][522]LogFileHelpers: InternalPromptForCheckoutAndSave took 195.624 ms (total: 3.47 sec)
+[2025.05.05-04.09.10:407][522]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.05-04.09.10:407][522]LogContentValidation: Enabled validators:
+[2025.05.05-04.09.10:407][522]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.05-04.09.10:407][522]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.05-04.09.10:407][522]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.05-04.09.10:407][522]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.05-04.09.10:407][522]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.05-04.09.10:407][522]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.05-04.09.10:408][522]AssetCheck: /Game/VRTemplate/Blueprints/WBP_SpeedTablet 에셋 유효성 검사 중
+[2025.05.05-04.09.11:053][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.05.05-04.10.42:697][648]LogSlate: Window '색 선택 툴' being destroyed
+[2025.05.05-04.10.53:316][931]LogEditorTransaction: Undo 드래그 앤 드롭 위젯
+[2025.05.05-04.10.53:657][932]LogEditorTransaction: Undo 위젯 이동
+[2025.05.05-04.10.53:966][933]LogEditorTransaction: Undo 위젯 이동
+[2025.05.05-04.10.54:370][938]LogEditorTransaction: Undo 위젯 이동
+[2025.05.05-04.10.55:286][954]LogEditorTransaction: Undo 위젯 추가
+[2025.05.05-04.10.56:151][969]LogEditorTransaction: Undo 상단 편집
+[2025.05.05-04.10.56:782][979]LogEditorTransaction: Undo 텍스트 편집
+[2025.05.05-04.10.57:758][  3]LogEditorTransaction: Undo 크기 편집
+[2025.05.05-04.10.59:074][ 25]LogEditorTransaction: Redo 크기 편집
+[2025.05.05-04.10.59:323][ 26]LogEditorTransaction: Redo 텍스트 편집
+[2025.05.05-04.11.01:272][ 64]LogEditorTransaction: Redo 상단 편집
+[2025.05.05-04.11.01:900][ 77]LogEditorTransaction: Redo 위젯 추가
+[2025.05.05-04.11.32:067][827]LogSlate: Window '색 선택 툴' being destroyed
+[2025.05.05-04.11.41:498][ 67]LogSlate: Window '색 선택 툴' being destroyed
+[2025.05.05-04.11.58:973][504]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3606.186035
+[2025.05.05-04.11.59:457][511]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.05-04.11.59:457][511]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3606.616211, Update Interval: 336.235840
+[2025.05.05-04.12.14:336][878]LogSlate: Window '색 선택 툴' being destroyed
+[2025.05.05-04.12.22:009][ 64]LogEditorTransaction: Undo 배경색 편집
+[2025.05.05-04.12.22:350][ 65]LogEditorTransaction: Undo 위젯 이동
+[2025.05.05-04.12.22:896][ 73]LogEditorTransaction: Undo 위젯 크기조정
+[2025.05.05-04.13.11:430][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.05.05-04.13.11:436][502]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.039
+[2025.05.05-04.13.11:437][502]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet] ([2] browsable assets)...
+[2025.05.05-04.13.11:442][502]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/VRTemplate/Blueprints/WBP_SpeedTablet.WBP_SpeedTablet]
+[2025.05.05-04.13.11:442][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet]
+[2025.05.05-04.13.11:454][502]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/WBP_SpeedTablet_Auto4
+[2025.05.05-04.13.11:454][502]LogSavePackage: Moving '../../../../../../Projects/vrspeed/Saved/WBP_SpeedTablet_Auto4D5AF005549C117FBC14D1A8E74C8FDC5.tmp' to '../../../../../../Projects/vrspeed/Saved/Autosaves/Game/VRTemplate/Blueprints/WBP_SpeedTablet_Auto4.uasset'
+[2025.05.05-04.13.11:455][502]LogFileHelpers: Auto-saving content packages took 0.019
+[2025.05.05-04.13.46:294][726]LogDerivedDataCache: C:/Users/bvb09/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.05-04.15.36:558][263]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.05-04.15.36:701][263]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet] ([2] browsable assets)...
+[2025.05.05-04.15.36:718][263]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/VRTemplate/Blueprints/WBP_SpeedTablet.WBP_SpeedTablet]
+[2025.05.05-04.15.36:718][263]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet]
+[2025.05.05-04.15.36:718][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/WBP_SpeedTablet" FILE="../../../../../../Projects/vrspeed/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset" SILENT=true
+[2025.05.05-04.15.36:732][263]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/WBP_SpeedTablet
+[2025.05.05-04.15.36:733][263]LogSavePackage: Moving '../../../../../../Projects/vrspeed/Saved/WBP_SpeedTabletFC1D5D084CAF10CA7BA7DA9D905DE169.tmp' to '../../../../../../Projects/vrspeed/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset'
+[2025.05.05-04.15.36:760][263]LogFileHelpers: InternalPromptForCheckoutAndSave took 203.062 ms (total: 3.67 sec)
+[2025.05.05-04.15.36:849][263]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.05-04.15.36:849][263]LogContentValidation: Enabled validators:
+[2025.05.05-04.15.36:849][263]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.05-04.15.36:849][263]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.05-04.15.36:849][263]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.05-04.15.36:849][263]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.05-04.15.36:849][263]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.05-04.15.36:849][263]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.05-04.15.36:849][263]AssetCheck: /Game/VRTemplate/Blueprints/WBP_SpeedTablet 에셋 유효성 검사 중
+[2025.05.05-04.15.38:220][301]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2025.05.05-04.15.39:588][335]LogSlate: Window 'WBP_SpeedTablet' being destroyed
+[2025.05.05-04.15.39:642][335]LogSlate: Window 'WBP_SpeedTablet' being destroyed
+[2025.05.05-04.15.39:657][335]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-04.15.39:657][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-04.15.39:667][335]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-04.15.39:667][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-04.15.39:722][335]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2025.05.05-04.15.45:744][648]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.05-04.15.45:834][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Maps/VRTemplateMap" FILE="../../../../../../Projects/vrspeed/Content/VRTemplate/Maps/VRTemplateMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.05.05-04.15.45:881][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.05.05-04.15.45:904][648]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.05.05-04.15.45:905][648]LogSavePackage: Moving '../../../../../../Projects/vrspeed/Saved/VRTemplateMap218C10824F292B4A02CAE2A59E5C502A.tmp' to '../../../../../../Projects/vrspeed/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.05.05-04.15.45:914][648]LogFileHelpers: 모든 파일이 이미 저장되었습니다.
+[2025.05.05-04.15.45:914][648]LogFileHelpers: Saving map 'VRTemplateMap' took 0.081
+[2025.05.05-04.15.45:942][648]LogFileHelpers: InternalPromptForCheckoutAndSave took 198.643 ms (total: 3.87 sec)
+[2025.05.05-04.15.46:032][648]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.05-04.15.46:032][648]LogContentValidation: Enabled validators:
+[2025.05.05-04.15.46:032][648]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.05-04.15.46:032][648]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.05-04.15.46:032][648]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.05-04.15.46:032][648]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.05-04.15.46:032][648]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.05-04.15.46:032][648]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.05-04.15.46:034][648]AssetCheck: /Game/VRTemplate/Maps/VRTemplateMap 에셋 유효성 검사 중
+[2025.05.05-04.15.46:660][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.05.05-04.15.46:699][677]LogStall: Shutdown...
+[2025.05.05-04.15.46:699][677]LogStall: Shutdown complete.
+[2025.05.05-04.15.46:732][677]LogSlate: Window 'vrspeed - 언리얼 에디터' being destroyed
+[2025.05.05-04.15.46:735][677]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2025.05.05-04.15.46:938][677]Cmd: QUIT_EDITOR
+[2025.05.05-04.15.46:938][678]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.05.05-04.15.46:946][678]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.05.05-04.15.46:946][678]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.05.05-04.15.46:946][678]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.05.05-04.15.46:947][678]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-04.15.46:947][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-04.15.46:961][678]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.05.05-04.15.46:962][678]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.05.05-04.15.46:969][678]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-04.15.46:969][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-04.15.46:976][678]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-04.15.46:976][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-04.15.46:982][678]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-04.15.46:982][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-04.15.46:988][678]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-04.15.46:988][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-04.15.46:992][678]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-04.15.46:992][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-04.15.46:999][678]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.05.05-04.15.47:005][678]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.05.05-04.15.47:005][678]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.05.05-04.15.47:005][678]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.05.05-04.15.47:144][678]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.05.05-04.15.47:144][678]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.05.05-04.15.47:144][678]LogAudio: Display: Audio Device unregistered from world 'VRTemplateMap'.
+[2025.05.05-04.15.47:144][678]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.05.05-04.15.47:144][678]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.05-04.15.47:148][678]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.05-04.15.47:163][678]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.05.05-04.15.47:163][678]LogAudio: Display: Audio Device Manager Shutdown
+[2025.05.05-04.15.47:168][678]LogExit: Preparing to exit.
+[2025.05.05-04.15.47:211][678]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2025.05.05-04.15.47:248][678]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-04.15.47:248][678]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-04.15.47:248][678]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-04.15.47:248][678]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-04.15.47:248][678]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-04.15.47:248][678]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-04.15.47:248][678]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-04.15.47:248][678]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-04.15.47:248][678]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-04.15.47:248][678]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-04.15.47:248][678]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-04.15.47:248][678]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-04.15.47:248][678]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-04.15.47:248][678]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-04.15.47:248][678]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-04.15.47:248][678]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-04.15.47:248][678]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-04.15.47:248][678]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-04.15.47:248][678]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-04.15.47:248][678]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-04.15.47:248][678]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-04.15.48:394][678]LogEditorDataStorage: Deinitializing
+[2025.05.05-04.15.48:581][678]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.05.05-04.15.48:609][678]LogExit: Editor shut down
+[2025.05.05-04.15.48:615][678]LogExit: Transaction tracking system shut down
+[2025.05.05-04.15.48:874][678]LogExit: Object subsystem successfully closed.
+[2025.05.05-04.15.48:921][678]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.05.05-04.15.49:479][678]LogMemoryProfiler: Shutdown
+[2025.05.05-04.15.49:479][678]LogNetworkingProfiler: Shutdown
+[2025.05.05-04.15.49:479][678]LoadingProfiler: Shutdown
+[2025.05.05-04.15.49:479][678]LogTimingProfiler: Shutdown
+[2025.05.05-04.15.49:891][678]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.05.05-04.15.49:891][678]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.05.05-04.15.49:903][678]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.05.05-04.15.49:903][678]LogNFORDenoise: NFORDenoise function shutting down
+[2025.05.05-04.15.49:903][678]RenderDocPlugin: plugin has been unloaded.
+[2025.05.05-04.15.49:914][678]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.05.05-04.15.49:914][678]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF0739210-4C59-9A95-6B67-429B3BE09FCA%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=0476dfd34060506565e9b5837f7d03e7%7Ccd507eb1427040a4b7e94a24b0c5da96%7C3f3206c7-4994-4fd3-87b6-3a79f78c6fac&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.05.05-04.15.50:959][678]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.05.05-04.15.50:968][678]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.05.05-04.15.50:968][678]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.05.05-04.15.50:968][678]LogPakFile: Destroying PakPlatformFile
+[2025.05.05-04.15.51:065][678]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.05.05-04.15.51:118][678]LogExit: Exiting.
+[2025.05.05-04.15.51:138][678]Log file closed, 05/05/25 13:15:51
