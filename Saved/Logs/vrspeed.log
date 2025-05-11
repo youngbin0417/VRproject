@@ -1439,3 +1439,12 @@ The following settings have been applied:
 [2025.05.11-14.23.55:774][804]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.05.11-14.23.55:774][804]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.05.11-14.23.55:775][804]AssetCheck: /Game/VRTemplate/Maps/VRTemplateMap 에셋 유효성 검사 중
+[2025.05.11-14.24.55:385][ 25]LogAudioEnumeration: Warning: FWindowsMMDeviceCache: Failed to get Format for active device '헤드폰(Oculus Virtual Audio Device)'
+[2025.05.11-14.24.55:457][ 25]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=헤드폰(Oculus Virtual Audio Device), InstanceID=1
+[2025.05.11-14.24.55:567][ 25]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.05.11-14.24.55:567][ 25]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=21692
+[2025.05.11-14.24.55:607][ 26]LogAudioEnumeration: Warning: FWindowsMMDeviceCache: Failed to get Format for active device 'Headset Microphone(Oculus Virtual Audio Device)'
+[2025.05.11-14.24.58:235][ 33]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.05.11-14.24.58:238][ 33]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{24b88efe-0f66-4fe1-a3a2-752bec86da6d}, Name=헤드폰(Oculus Virtual Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=2404.78
+[2025.05.11-14.24.58:238][ 33]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.05.11-14.24.58:242][ 33]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
