@@ -40,6 +40,18 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "LocationServicesAndroidImpl",
+			"Enabled": true
+		},
+		{
+			"Name": "OpenXRMsftHandInteraction",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Android"
+			]
 		}
 	],
 	"TargetPlatforms": [
