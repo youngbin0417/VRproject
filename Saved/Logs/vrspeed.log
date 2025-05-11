@@ -1421,3 +1421,21 @@ The following settings have been applied:
 [2025.05.11-14.22.54:125][562]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.05.11-14.22.54:125][562]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.05.11-14.22.54:126][562]AssetCheck: /Game/VRTemplate/Maps/VRTemplateMap 에셋 유효성 검사 중
+[2025.05.11-14.23.26:583][666]LogDerivedDataCache: C:/Users/bvb09/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.102 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 655 files in 1151 folders with total size 22 MiB.
+[2025.05.11-14.23.55:529][804]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.11-14.23.55:607][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Maps/VRTemplateMap" FILE="../../../../../../Projects/vrspeed/Content/VRTemplate/Maps/VRTemplateMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.05.11-14.23.55:636][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.05.11-14.23.55:648][804]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.05.11-14.23.55:649][804]LogSavePackage: Moving '../../../../../../Projects/vrspeed/Saved/VRTemplateMap90E99CE043932AF43F0757A310D16890.tmp' to '../../../../../../Projects/vrspeed/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.05.11-14.23.55:658][804]LogFileHelpers: 모든 파일이 이미 저장되었습니다.
+[2025.05.11-14.23.55:658][804]LogFileHelpers: Saving map 'VRTemplateMap' took 0.052
+[2025.05.11-14.23.55:689][804]LogFileHelpers: InternalPromptForCheckoutAndSave took 159.848 ms (total: 378.276 ms)
+[2025.05.11-14.23.55:774][804]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.11-14.23.55:774][804]LogContentValidation: Enabled validators:
+[2025.05.11-14.23.55:774][804]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.11-14.23.55:774][804]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.11-14.23.55:774][804]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.11-14.23.55:774][804]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.11-14.23.55:774][804]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.11-14.23.55:774][804]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.11-14.23.55:775][804]AssetCheck: /Game/VRTemplate/Maps/VRTemplateMap 에셋 유효성 검사 중
