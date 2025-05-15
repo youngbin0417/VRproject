@@ -15,16 +15,11 @@
 	],
 	"Plugins": [
 		{
-			"Name": "OpenXR",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Linux",
-				"Android"
-			]
+			"Name": "LocationServicesAndroidImpl",
+			"Enabled": true
 		},
 		{
-			"Name": "OpenXREyeTracker",
+			"Name": "OpenXR",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
 				"Win64",
@@ -42,16 +37,28 @@
 			]
 		},
 		{
-			"Name": "LocationServicesAndroidImpl",
-			"Enabled": true
-		},
-		{
 			"Name": "OpenXRMsftHandInteraction",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
 				"Win64",
 				"Android"
 			]
+		},
+		{
+			"Name": "SimpleHMD",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux",
+				"Android",
+				"Mac",
+				"IOS",
+				"VisionOS"
+			]
+		},
+		{
+			"Name": "XRBase",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
