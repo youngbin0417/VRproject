@@ -28,23 +28,6 @@
 			]
 		},
 		{
-			"Name": "OpenXRHandTracking",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Linux",
-				"Android"
-			]
-		},
-		{
-			"Name": "OpenXRMsftHandInteraction",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Android"
-			]
-		},
-		{
 			"Name": "SimpleHMD",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
