@@ -7796,3 +7796,936 @@ Scale3D: 1.000000 1.000000 1.000000
 [2025.06.06-11.53.29:390][770]LogPlayLevel: Display: Destroying online subsystem :Context_105
 [2025.06.06-11.54.04:497][471]LogSlate: Window '변경사항 보기' being destroyed
 [2025.06.06-11.54.04:569][471]LogSlate: Window '변경사항 보기' being destroyed
+[2025.06.06-11.58.11:675][250]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13652.126953
+[2025.06.06-11.58.12:675][253]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.06-11.58.12:675][253]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13652.792969, Update Interval: 348.447510
+[2025.06.06-11.59.27:237][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.06-11.59.27:364][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.06.06-11.59.27:385][ 62]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.06.06-11.59.27:386][ 62]LogSavePackage: Moving '../../../../../../Projects/VRProject/VRproject/Saved/VRTemplateMapC0B178FF4CF1AD274032E69741E7BE8D.tmp' to '../../../../../../Projects/VRProject/VRproject/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.06.06-11.59.27:396][ 62]LogFileHelpers: 모든 파일이 이미 저장되었습니다.
+[2025.06.06-11.59.27:396][ 62]LogFileHelpers: Saving map 'VRTemplateMap' took 0.079
+[2025.06.06-11.59.27:423][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave took 185.946 ms (total: 8.44 sec)
+[2025.06.06-11.59.27:500][ 62]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.06-11.59.27:500][ 62]LogContentValidation: Enabled validators:
+[2025.06.06-11.59.27:500][ 62]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.06-11.59.27:500][ 62]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.06-11.59.27:500][ 62]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.06-11.59.27:500][ 62]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.06-11.59.27:500][ 62]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.06-11.59.27:500][ 62]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.06-11.59.27:501][ 62]AssetCheck: /Game/VRTemplate/Maps/VRTemplateMap 에셋 유효성 검사 중
+[2025.06.06-12.01.37:389][773]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.06-12.01.37:526][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.06.06-12.01.37:545][773]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.06.06-12.01.37:546][773]LogSavePackage: Moving '../../../../../../Projects/VRProject/VRproject/Saved/VRTemplateMapA38312FD4197BEFE375573A5C9D2F250.tmp' to '../../../../../../Projects/VRProject/VRproject/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.06.06-12.01.37:556][773]LogFileHelpers: 모든 파일이 이미 저장되었습니다.
+[2025.06.06-12.01.37:556][773]LogFileHelpers: Saving map 'VRTemplateMap' took 0.075
+[2025.06.06-12.01.37:584][773]LogFileHelpers: InternalPromptForCheckoutAndSave took 195.652 ms (total: 8.63 sec)
+[2025.06.06-12.01.37:664][773]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.06-12.01.37:664][773]LogContentValidation: Enabled validators:
+[2025.06.06-12.01.37:664][773]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.06-12.01.37:664][773]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.06-12.01.37:664][773]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.06-12.01.37:664][773]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.06-12.01.37:664][773]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.06-12.01.37:664][773]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.06-12.01.37:664][773]AssetCheck: /Game/VRTemplate/Maps/VRTemplateMap 에셋 유효성 검사 중
+[2025.06.06-12.05.00:650][498]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14061.216797
+[2025.06.06-12.05.01:650][501]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.06-12.05.01:650][501]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14061.884766, Update Interval: 315.434418
+[2025.06.06-12.05.35:987][829]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Player.Player
+[2025.06.06-12.05.35:988][829]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_69
+[2025.06.06-12.05.35:988][829]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_69'.
+[2025.06.06-12.05.43:001][  7]LogSlate: Window 'Player' being destroyed
+[2025.06.06-12.05.43:057][  7]LogSlate: Window 'Player' being destroyed
+[2025.06.06-12.05.43:062][  7]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-12.05.43:062][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-12.05.43:251][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.06.06-12.05.44:384][ 59]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/VRTemplate/Blueprints/WBP_SpeedTablet.WBP_SpeedTablet
+[2025.06.06-12.05.44:384][ 59]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_70
+[2025.06.06-12.05.44:385][ 59]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_70'.
+[2025.06.06-12.05.44:407][ 59]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_71
+[2025.06.06-12.05.44:408][ 59]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_71'.
+[2025.06.06-12.05.50:524][208]LogSlate: Window 'WBP_SpeedTablet' being destroyed
+[2025.06.06-12.05.50:592][208]LogSlate: Window 'WBP_SpeedTablet' being destroyed
+[2025.06.06-12.05.50:605][208]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-12.05.50:605][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-12.05.50:614][208]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-12.05.50:614][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-12.05.50:765][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.06.06-12.05.52:115][264]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/VRTemplate/Blueprints/WBP_SpeedTablet.WBP_SpeedTablet
+[2025.06.06-12.05.52:115][264]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_72
+[2025.06.06-12.05.52:116][264]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_72'.
+[2025.06.06-12.05.52:137][264]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_73
+[2025.06.06-12.05.52:138][264]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_73'.
+[2025.06.06-12.06.10:699][760]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.06-12.06.10:842][760]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet] ([2] browsable assets)...
+[2025.06.06-12.06.10:874][760]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/VRTemplate/Blueprints/WBP_SpeedTablet.WBP_SpeedTablet]
+[2025.06.06-12.06.10:874][760]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet]
+[2025.06.06-12.06.10:874][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/WBP_SpeedTablet" FILE="../../../../../../Projects/VRProject/VRproject/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset" SILENT=true
+[2025.06.06-12.06.10:885][760]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/WBP_SpeedTablet
+[2025.06.06-12.06.10:886][760]LogSavePackage: Moving '../../../../../../Projects/VRProject/VRproject/Saved/WBP_SpeedTablet1D886F5F44B84F77E29524A3A923C7B6.tmp' to '../../../../../../Projects/VRProject/VRproject/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset'
+[2025.06.06-12.06.10:916][760]LogFileHelpers: InternalPromptForCheckoutAndSave took 217.391 ms (total: 8.85 sec)
+[2025.06.06-12.06.11:011][760]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.06-12.06.11:011][760]LogContentValidation: Enabled validators:
+[2025.06.06-12.06.11:011][760]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.06-12.06.11:011][760]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.06-12.06.11:011][760]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.06-12.06.11:011][760]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.06-12.06.11:011][760]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.06-12.06.11:011][760]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.06-12.06.11:012][760]AssetCheck: /Game/VRTemplate/Blueprints/WBP_SpeedTablet 에셋 유효성 검사 중
+[2025.06.06-12.06.23:140][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.06.06-12.06.23:178][113]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.06-12.06.23:258][113]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet] ([2] browsable assets)...
+[2025.06.06-12.06.23:276][113]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/VRTemplate/Blueprints/WBP_SpeedTablet.WBP_SpeedTablet]
+[2025.06.06-12.06.23:276][113]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet]
+[2025.06.06-12.06.23:276][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/WBP_SpeedTablet" FILE="../../../../../../Projects/VRProject/VRproject/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset" SILENT=true
+[2025.06.06-12.06.23:288][113]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/WBP_SpeedTablet
+[2025.06.06-12.06.23:289][113]LogSavePackage: Moving '../../../../../../Projects/VRProject/VRproject/Saved/WBP_SpeedTablet4F1A06BD405B47BF4EE6B9896904C45F.tmp' to '../../../../../../Projects/VRProject/VRproject/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset'
+[2025.06.06-12.06.23:316][113]LogFileHelpers: InternalPromptForCheckoutAndSave took 137.956 ms (total: 8.99 sec)
+[2025.06.06-12.06.23:407][113]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.06-12.06.23:408][113]LogContentValidation: Enabled validators:
+[2025.06.06-12.06.23:408][113]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.06-12.06.23:408][113]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.06-12.06.23:408][113]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.06-12.06.23:408][113]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.06-12.06.23:408][113]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.06-12.06.23:408][113]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.06-12.06.23:409][113]AssetCheck: /Game/VRTemplate/Blueprints/WBP_SpeedTablet 에셋 유효성 검사 중
+[2025.06.06-12.06.24:047][125]LogSlate: Window 'WBP_SpeedTablet' being destroyed
+[2025.06.06-12.06.24:102][125]LogSlate: Window 'WBP_SpeedTablet' being destroyed
+[2025.06.06-12.06.24:117][125]LogWorld: UWorld::CleanupWorld for World_73, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-12.06.24:117][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-12.06.24:126][125]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-12.06.24:126][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-12.06.24:219][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.06.06-12.07.31:016][768]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: cd5...a96
+[2025.06.06-12.07.31:016][768]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.99 RefreshExpires: 1.553e+07
+[2025.06.06-12.07.31:334][785]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: cd5...a96 Access[Expires: 2025.06.06-14.07.32 Remaining: 7200.29] Refresh[Expires: 2025-12-03T06:37:48.115Z Remaining: 15532216.12] State: Valid
+[2025.06.06-12.11.11:034][621]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14431.663086
+[2025.06.06-12.11.11:309][636]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.06-12.11.11:309][637]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14431.918945, Update Interval: 344.029053
+[2025.06.06-12.12.30:100][875]LogDerivedDataCache: C:/Users/bvb09/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.06.06-12.17.53:253][253]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14834.161133
+[2025.06.06-12.17.53:511][267]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.06-12.17.53:511][267]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14834.400391, Update Interval: 353.206573
+[2025.06.06-12.20.42:242][306]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/VRTemplate/Blueprints/WBP_SpeedTablet.WBP_SpeedTablet
+[2025.06.06-12.20.42:243][306]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_76
+[2025.06.06-12.20.42:244][306]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_76'.
+[2025.06.06-12.20.42:262][306]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_77
+[2025.06.06-12.20.42:263][306]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_77'.
+[2025.06.06-12.20.49:938][473]LogSlate: Window '색 선택 툴' being destroyed
+[2025.06.06-12.20.51:447][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.06.06-12.20.51:630][512]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.06-12.20.51:720][512]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet] ([2] browsable assets)...
+[2025.06.06-12.20.51:736][512]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/VRTemplate/Blueprints/WBP_SpeedTablet.WBP_SpeedTablet]
+[2025.06.06-12.20.51:736][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet]
+[2025.06.06-12.20.51:736][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/WBP_SpeedTablet" FILE="../../../../../../Projects/VRProject/VRproject/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset" SILENT=true
+[2025.06.06-12.20.51:748][512]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/WBP_SpeedTablet
+[2025.06.06-12.20.51:750][512]LogSavePackage: Moving '../../../../../../Projects/VRProject/VRproject/Saved/WBP_SpeedTablet380DDF8146C539C374BC2EB204FCF797.tmp' to '../../../../../../Projects/VRProject/VRproject/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset'
+[2025.06.06-12.20.51:776][512]LogFileHelpers: InternalPromptForCheckoutAndSave took 145.760 ms (total: 9.13 sec)
+[2025.06.06-12.20.51:886][512]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.06-12.20.51:887][512]LogContentValidation: Enabled validators:
+[2025.06.06-12.20.51:887][512]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.06-12.20.51:887][512]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.06-12.20.51:887][512]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.06-12.20.51:887][512]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.06-12.20.51:887][512]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.06-12.20.51:887][512]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.06-12.20.51:888][512]AssetCheck: /Game/VRTemplate/Blueprints/WBP_SpeedTablet 에셋 유효성 검사 중
+[2025.06.06-12.21.55:460][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.06.06-12.21.55:639][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.06-12.21.55:752][ 94]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet] ([2] browsable assets)...
+[2025.06.06-12.21.55:768][ 94]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/VRTemplate/Blueprints/WBP_SpeedTablet.WBP_SpeedTablet]
+[2025.06.06-12.21.55:768][ 94]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet]
+[2025.06.06-12.21.55:768][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/WBP_SpeedTablet" FILE="../../../../../../Projects/VRProject/VRproject/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset" SILENT=true
+[2025.06.06-12.21.55:781][ 94]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/WBP_SpeedTablet
+[2025.06.06-12.21.55:782][ 94]LogSavePackage: Moving '../../../../../../Projects/VRProject/VRproject/Saved/WBP_SpeedTabletB94F2044425B23A7C6B43CA0DBC75187.tmp' to '../../../../../../Projects/VRProject/VRproject/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset'
+[2025.06.06-12.21.55:809][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave took 170.530 ms (total: 9.30 sec)
+[2025.06.06-12.21.55:919][ 94]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.06-12.21.55:919][ 94]LogContentValidation: Enabled validators:
+[2025.06.06-12.21.55:919][ 94]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.06-12.21.55:919][ 94]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.06-12.21.55:919][ 94]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.06-12.21.55:919][ 94]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.06-12.21.55:919][ 94]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.06-12.21.55:919][ 94]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.06-12.21.55:919][ 94]AssetCheck: /Game/VRTemplate/Blueprints/WBP_SpeedTablet 에셋 유효성 검사 중
+[2025.06.06-12.21.56:821][115]LogSlate: Window 'WBP_SpeedTablet' being destroyed
+[2025.06.06-12.21.56:871][115]LogSlate: Window 'WBP_SpeedTablet' being destroyed
+[2025.06.06-12.21.56:895][115]LogWorld: UWorld::CleanupWorld for World_77, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-12.21.56:895][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-12.21.56:903][115]LogWorld: UWorld::CleanupWorld for World_76, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-12.21.56:903][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-12.21.56:994][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.06.06-12.22.13:241][662]LogDebuggerCommands: Repeating last play command: VR 프리뷰
+[2025.06.06-12.22.13:256][662]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.06-12.22.13:256][662]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2025.06.06-12.22.13:261][662]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005139s)
+[2025.06.06-12.22.13:261][662]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.005198s)
+[2025.06.06-12.22.13:304][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2025.06.06-12.22.13:311][662]LogChaosDD: Creating Chaos Debug Draw Scene for world VRTemplateMap
+[2025.06.06-12.22.13:313][662]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap'.
+[2025.06.06-12.22.13:314][662]LogPlayLevel: PIE: World Init took: (0.002723s)
+[2025.06.06-12.22.13:316][662]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2025.06.06-12.22.13:316][662]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.06-12.22.13:316][662]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.06-12.22.13:316][662]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.06-12.22.13:316][662]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.06-12.22.13:316][662]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.06-12.22.13:316][662]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.06-12.22.13:316][662]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.06-12.22.13:316][662]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.06-12.22.13:316][662]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.06-12.22.13:316][662]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.06-12.22.13:316][662]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.06-12.22.13:321][662]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.06-12.22.13:378][662]LogAudioMixer: Display: Using Audio Hardware Device 헤드폰(Oculus Virtual Audio Device)
+[2025.06.06-12.22.13:380][662]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.06-12.22.13:380][662]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.06-12.22.13:380][662]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.06-12.22.13:381][662]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=51
+[2025.06.06-12.22.13:381][662]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=51
+[2025.06.06-12.22.13:388][662]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=51
+[2025.06.06-12.22.13:388][662]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=51
+[2025.06.06-12.22.13:388][662]LogInit: FAudioDevice initialized with ID 51.
+[2025.06.06-12.22.13:388][662]LogAudio: Display: Audio Device (ID: 51) registered with world 'VRTemplateMap'.
+[2025.06.06-12.22.13:388][662]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 51
+[2025.06.06-12.22.13:455][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.06-12.22.13:749][662]LogLoad: Game class is 'VRGameMode_C'
+[2025.06.06-12.22.13:754][662]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2025.06.06-21.22.13
+[2025.06.06-12.22.13:755][662]LogWorld: Bringing up level for play took: 0.005064
+[2025.06.06-12.22.13:763][662]LogOnline: OSS: Created online subsystem instance for: :Context_113
+[2025.06.06-12.22.13:767][662]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.06.06-12.22.13:773][662]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.06.06-12.22.13:787][662]PIE: 서버가 로그인했습니다.
+[2025.06.06-12.22.13:794][662]PIE: 에디터에서 플레이 총 시작 시간 0.539초입니다.
+[2025.06.06-12.22.13:795][662]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2025.06.06-12.22.13:823][662]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2025.06.06-12.22.16:468][729]LogBlueprintUserMessages: [Player_C_0] click
+[2025.06.06-12.22.16:468][729]LogBlueprintUserMessages: [WBP_SpeedTablet_C_1] start
+[2025.06.06-12.22.16:468][729]LogBlueprintUserMessages: [WBP_SpeedTablet_C_1] Start
+[2025.06.06-12.22.16:468][729]LogBlueprintUserMessages: [WBP_SpeedTablet_C_1] 1.5
+[2025.06.06-12.22.16:482][730]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2025.06.06-12.22.16:752][737]LogBlueprintUserMessages: [Player_C_0] release
+[2025.06.06-12.22.17:550][760]LogBlueprintUserMessages: [Player_C_0] click
+[2025.06.06-12.22.17:550][760]LogBlueprintUserMessages: [WBP_SpeedTablet_C_1] start
+[2025.06.06-12.22.17:550][760]LogBlueprintUserMessages: [WBP_SpeedTablet_C_1] Start
+[2025.06.06-12.22.17:550][760]LogBlueprintUserMessages: [WBP_SpeedTablet_C_1] 1.5
+[2025.06.06-12.22.17:680][764]LogBlueprintUserMessages: [Player_C_0] release
+[2025.06.06-12.22.19:669][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.06-12.22.19:669][820]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2025.06.06-12.22.19:733][820]LogSlate: Window 'vrspeed 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.109.0)' being destroyed
+[2025.06.06-12.22.19:737][820]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-12.22.19:740][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-12.22.19:744][820]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.06-12.22.19:754][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-12.22.19:786][820]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 51
+[2025.06.06-12.22.19:786][820]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2025.06.06-12.22.19:790][820]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2025.06.06-12.22.19:803][820]LogSlate: Slate User Unregistered.  User Index 8
+[2025.06.06-12.22.19:803][820]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.06.06-12.22.19:805][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.06.06-12.22.19:859][821]LogPlayLevel: Display: Destroying online subsystem :Context_113
+[2025.06.06-12.22.23:009][999]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/VRTemplate/Blueprints/WBP_SpeedTablet.WBP_SpeedTablet
+[2025.06.06-12.22.23:009][999]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_80
+[2025.06.06-12.22.23:010][999]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_80'.
+[2025.06.06-12.22.23:042][999]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_81
+[2025.06.06-12.22.23:043][999]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_81'.
+[2025.06.06-12.22.34:887][266]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.06-12.22.35:037][266]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet] ([2] browsable assets)...
+[2025.06.06-12.22.35:054][266]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/VRTemplate/Blueprints/WBP_SpeedTablet.WBP_SpeedTablet]
+[2025.06.06-12.22.35:054][266]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet]
+[2025.06.06-12.22.35:054][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/WBP_SpeedTablet" FILE="../../../../../../Projects/VRProject/VRproject/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset" SILENT=true
+[2025.06.06-12.22.35:065][266]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/WBP_SpeedTablet
+[2025.06.06-12.22.35:066][266]LogSavePackage: Moving '../../../../../../Projects/VRProject/VRproject/Saved/WBP_SpeedTablet009E7AFC49E496C04A425487DFDBFBF9.tmp' to '../../../../../../Projects/VRProject/VRproject/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset'
+[2025.06.06-12.22.35:095][266]LogFileHelpers: InternalPromptForCheckoutAndSave took 208.057 ms (total: 9.51 sec)
+[2025.06.06-12.22.35:196][266]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.06-12.22.35:196][266]LogContentValidation: Enabled validators:
+[2025.06.06-12.22.35:196][266]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.06-12.22.35:196][266]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.06-12.22.35:196][266]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.06-12.22.35:196][266]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.06-12.22.35:196][266]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.06-12.22.35:196][266]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.06-12.22.35:197][266]AssetCheck: /Game/VRTemplate/Blueprints/WBP_SpeedTablet 에셋 유효성 검사 중
+[2025.06.06-12.22.36:466][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.06.06-12.22.37:818][328]LogSlate: Window 'WBP_SpeedTablet' being destroyed
+[2025.06.06-12.22.37:887][328]LogSlate: Window 'WBP_SpeedTablet' being destroyed
+[2025.06.06-12.22.37:910][328]LogWorld: UWorld::CleanupWorld for World_81, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-12.22.37:910][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-12.22.37:918][328]LogWorld: UWorld::CleanupWorld for World_80, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-12.22.37:918][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-12.22.38:011][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.06.06-12.22.38:881][368]LogDebuggerCommands: Repeating last play command: VR 프리뷰
+[2025.06.06-12.22.38:889][368]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.06-12.22.38:889][368]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2025.06.06-12.22.38:893][368]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003651s)
+[2025.06.06-12.22.38:893][368]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.003695s)
+[2025.06.06-12.22.38:917][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.06.06-12.22.38:921][368]LogChaosDD: Creating Chaos Debug Draw Scene for world VRTemplateMap
+[2025.06.06-12.22.38:922][368]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap'.
+[2025.06.06-12.22.38:923][368]LogPlayLevel: PIE: World Init took: (0.002124s)
+[2025.06.06-12.22.38:924][368]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2025.06.06-12.22.38:924][368]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.06-12.22.38:924][368]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.06-12.22.38:924][368]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.06-12.22.38:924][368]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.06-12.22.38:924][368]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.06-12.22.38:924][368]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.06-12.22.38:924][368]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.06-12.22.38:924][368]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.06-12.22.38:924][368]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.06-12.22.38:924][368]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.06-12.22.38:924][368]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.06-12.22.38:927][368]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.06-12.22.38:962][368]LogAudioMixer: Display: Using Audio Hardware Device 헤드폰(Oculus Virtual Audio Device)
+[2025.06.06-12.22.38:962][368]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.06-12.22.38:962][368]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.06-12.22.38:962][368]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.06-12.22.38:962][368]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=52
+[2025.06.06-12.22.38:963][368]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=52
+[2025.06.06-12.22.38:966][368]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=52
+[2025.06.06-12.22.38:966][368]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=52
+[2025.06.06-12.22.38:966][368]LogInit: FAudioDevice initialized with ID 52.
+[2025.06.06-12.22.38:966][368]LogAudio: Display: Audio Device (ID: 52) registered with world 'VRTemplateMap'.
+[2025.06.06-12.22.38:966][368]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 52
+[2025.06.06-12.22.38:997][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.06-12.22.39:198][368]LogLoad: Game class is 'VRGameMode_C'
+[2025.06.06-12.22.39:202][368]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2025.06.06-21.22.39
+[2025.06.06-12.22.39:202][368]LogWorld: Bringing up level for play took: 0.003896
+[2025.06.06-12.22.39:206][368]LogOnline: OSS: Created online subsystem instance for: :Context_116
+[2025.06.06-12.22.39:208][368]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.06.06-12.22.39:210][368]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.06.06-12.22.39:217][368]PIE: 서버가 로그인했습니다.
+[2025.06.06-12.22.39:220][368]PIE: 에디터에서 플레이 총 시작 시간 0.331초입니다.
+[2025.06.06-12.22.39:233][368]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2025.06.06-12.22.45:273][555]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2025.06.06-12.22.47:575][594]LogBlueprintUserMessages: [Player_C_0] click
+[2025.06.06-12.22.47:576][594]LogBlueprintUserMessages: [WBP_SpeedTablet_C_1] start
+[2025.06.06-12.22.47:576][594]LogBlueprintUserMessages: [WBP_SpeedTablet_C_1] Start
+[2025.06.06-12.22.47:576][594]LogBlueprintUserMessages: [WBP_SpeedTablet_C_1] 1.5
+[2025.06.06-12.22.47:595][595]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2025.06.06-12.22.47:704][598]LogBlueprintUserMessages: [Player_C_0] release
+[2025.06.06-12.22.48:616][623]LogBlueprintUserMessages: [Player_C_0] click
+[2025.06.06-12.22.48:616][623]LogBlueprintUserMessages: [WBP_SpeedTablet_C_1] plus
+[2025.06.06-12.22.48:616][623]LogBlueprintUserMessages: [WBP_SpeedTablet_C_1] 1.8
+[2025.06.06-12.22.48:797][628]LogBlueprintUserMessages: [Player_C_0] release
+[2025.06.06-12.22.49:131][638]LogBlueprintUserMessages: [Player_C_0] click
+[2025.06.06-12.22.49:131][638]LogBlueprintUserMessages: [WBP_SpeedTablet_C_1] plus
+[2025.06.06-12.22.49:131][638]LogBlueprintUserMessages: [WBP_SpeedTablet_C_1] 2.1
+[2025.06.06-12.22.49:264][642]LogBlueprintUserMessages: [Player_C_0] release
+[2025.06.06-12.22.50:284][674]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.032 s
+[2025.06.06-12.22.50:284][674]LogOutputDevice: Error: === Handled ensure: ===
+[2025.06.06-12.22.50:284][674]LogOutputDevice: Error: 
+[2025.06.06-12.22.50:284][674]LogOutputDevice: Error: Ensure condition failed: OriginX <= OriginMax && OriginY <= OriginMax && OriginZ <= OriginMax  [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Private\Math\DoubleFloat.cpp] [Line: 19] 
+[2025.06.06-12.22.50:284][674]LogOutputDevice: Error: Found precision loss while converting matrix to GPU format, verify the input transforms. This error usually indicates the view transform is invalid, or the PreViewTranslation/ViewOrigin was not set up correctly.
+[2025.06.06-12.22.50:284][674]LogOutputDevice: Error: Stack: 
+[2025.06.06-12.22.50:284][674]LogOutputDevice: Error: [Callstack] 0x00007ffadd9ffbab UnrealEditor-Core.dll!UnknownFunction []
+[2025.06.06-12.22.50:284][674]LogOutputDevice: Error: [Callstack] 0x00007ffadd02c1a9 UnrealEditor-Core.dll!UnknownFunction []
+[2025.06.06-12.22.50:284][674]LogOutputDevice: Error: [Callstack] 0x00007ffaa0bd0cae UnrealEditor-Engine.dll!UnknownFunction []
+[2025.06.06-12.22.50:284][674]LogOutputDevice: Error: [Callstack] 0x00007ffaa1952e6f UnrealEditor-Engine.dll!UnknownFunction []
+[2025.06.06-12.22.50:284][674]LogOutputDevice: Error: [Callstack] 0x00007ffa92ed9b0a UnrealEditor-Renderer.dll!UnknownFunction []
+[2025.06.06-12.22.50:284][674]LogOutputDevice: Error: [Callstack] 0x00007ffa92ebc1dd UnrealEditor-Renderer.dll!UnknownFunction []
+[2025.06.06-12.22.50:284][674]LogOutputDevice: Error: [Callstack] 0x00007ffa92ee11b3 UnrealEditor-Renderer.dll!UnknownFunction []
+[2025.06.06-12.22.50:284][674]LogOutputDevice: Error: [Callstack] 0x00007ffa92ed4440 UnrealEditor-Renderer.dll!UnknownFunction []
+[2025.06.06-12.22.50:284][674]LogOutputDevice: Error: [Callstack] 0x00007ffa92d4f070 UnrealEditor-Renderer.dll!UnknownFunction []
+[2025.06.06-12.22.50:284][674]LogOutputDevice: Error: [Callstack] 0x00007ffa92cd8424 UnrealEditor-Renderer.dll!UnknownFunction []
+[2025.06.06-12.22.50:284][674]LogOutputDevice: Error: [Callstack] 0x00007ffadcd4ee35 UnrealEditor-Core.dll!UnknownFunction []
+[2025.06.06-12.22.50:284][674]LogOutputDevice: Error: [Callstack] 0x00007ffadcd4eb6f UnrealEditor-Core.dll!UnknownFunction []
+[2025.06.06-12.22.50:284][674]LogOutputDevice: Error: [Callstack] 0x00007ffadcd761ad UnrealEditor-Core.dll!UnknownFunction []
+[2025.06.06-12.22.50:284][674]LogOutputDevice: Error: [Callstack] 0x00007ffadcd3b0d6 UnrealEditor-Core.dll!UnknownFunction []
+[2025.06.06-12.22.50:284][674]LogOutputDevice: Error: [Callstack] 0x00007ffadcf47e23 UnrealEditor-Core.dll!UnknownFunction []
+[2025.06.06-12.22.50:284][674]LogOutputDevice: Error: [Callstack] 0x00007ffadd39c0ad UnrealEditor-Core.dll!UnknownFunction []
+[2025.06.06-12.22.50:284][674]LogOutputDevice: Error: [Callstack] 0x00007ffadd3935cf UnrealEditor-Core.dll!UnknownFunction []
+[2025.06.06-12.22.50:284][674]LogOutputDevice: Error: [Callstack] 0x00007ffb52a1e8d7 KERNEL32.DLL!UnknownFunction []
+[2025.06.06-12.22.50:284][674]LogOutputDevice: Error: [Callstack] 0x00007ffb52e7c5dc ntdll.dll!UnknownFunction []
+[2025.06.06-12.22.50:284][674]LogOutputDevice: Error: 
+[2025.06.06-12.22.50:292][674]LogStats:                SubmitErrorReport -  0.000 s
+[2025.06.06-12.22.51:953][674]LogStats:                    SendNewReport -  1.661 s
+[2025.06.06-12.22.51:953][674]LogStats:             FDebug::EnsureFailed -  1.702 s
+[2025.06.06-12.22.54:218][740]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.54:247][741]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.028 s
+[2025.06.06-12.22.54:247][741]LogOutputDevice: Error: === Handled ensure: ===
+[2025.06.06-12.22.54:247][741]LogOutputDevice: Error: 
+[2025.06.06-12.22.54:247][741]LogOutputDevice: Error: Ensure condition failed: false  [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Math\Matrix.h] [Line: 429] 
+[2025.06.06-12.22.54:247][741]LogOutputDevice: Error: TMatrix<T>::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.54:247][741]LogOutputDevice: Error: Stack: 
+[2025.06.06-12.22.54:247][741]LogOutputDevice: Error: [Callstack] 0x00007ffa94210298 UnrealEditor-Renderer.dll!UnknownFunction []
+[2025.06.06-12.22.54:247][741]LogOutputDevice: Error: [Callstack] 0x00007ffa92e2638a UnrealEditor-Renderer.dll!UnknownFunction []
+[2025.06.06-12.22.54:247][741]LogOutputDevice: Error: [Callstack] 0x00007ffa92e15fc2 UnrealEditor-Renderer.dll!UnknownFunction []
+[2025.06.06-12.22.54:247][741]LogOutputDevice: Error: [Callstack] 0x00007ffa92e7d6d3 UnrealEditor-Renderer.dll!UnknownFunction []
+[2025.06.06-12.22.54:247][741]LogOutputDevice: Error: [Callstack] 0x00007ffa92e5415a UnrealEditor-Renderer.dll!UnknownFunction []
+[2025.06.06-12.22.54:247][741]LogOutputDevice: Error: [Callstack] 0x00007ffa92dd5afb UnrealEditor-Renderer.dll!UnknownFunction []
+[2025.06.06-12.22.54:247][741]LogOutputDevice: Error: [Callstack] 0x00007ffa93bb6496 UnrealEditor-Renderer.dll!UnknownFunction []
+[2025.06.06-12.22.54:247][741]LogOutputDevice: Error: [Callstack] 0x00007ffa93b6d4fa UnrealEditor-Renderer.dll!UnknownFunction []
+[2025.06.06-12.22.54:247][741]LogOutputDevice: Error: [Callstack] 0x00007ffb0221c2f5 UnrealEditor-RenderCore.dll!UnknownFunction []
+[2025.06.06-12.22.54:247][741]LogOutputDevice: Error: [Callstack] 0x00007ffb02249fff UnrealEditor-RenderCore.dll!UnknownFunction []
+[2025.06.06-12.22.54:247][741]LogOutputDevice: Error: [Callstack] 0x00007ffadcd72722 UnrealEditor-Core.dll!UnknownFunction []
+[2025.06.06-12.22.54:247][741]LogOutputDevice: Error: [Callstack] 0x00007ffadcd67d4a UnrealEditor-Core.dll!UnknownFunction []
+[2025.06.06-12.22.54:247][741]LogOutputDevice: Error: [Callstack] 0x00007ffadcd681ee UnrealEditor-Core.dll!UnknownFunction []
+[2025.06.06-12.22.54:247][741]LogOutputDevice: Error: [Callstack] 0x00007ffb0227894c UnrealEditor-RenderCore.dll!UnknownFunction []
+[2025.06.06-12.22.54:247][741]LogOutputDevice: Error: [Callstack] 0x00007ffb0227d9e4 UnrealEditor-RenderCore.dll!UnknownFunction []
+[2025.06.06-12.22.54:247][741]LogOutputDevice: Error: [Callstack] 0x00007ffadd39c0ad UnrealEditor-Core.dll!UnknownFunction []
+[2025.06.06-12.22.54:247][741]LogOutputDevice: Error: [Callstack] 0x00007ffadd3935cf UnrealEditor-Core.dll!UnknownFunction []
+[2025.06.06-12.22.54:247][741]LogOutputDevice: Error: [Callstack] 0x00007ffb52a1e8d7 KERNEL32.DLL!UnknownFunction []
+[2025.06.06-12.22.54:247][741]LogOutputDevice: Error: [Callstack] 0x00007ffb52e7c5dc ntdll.dll!UnknownFunction []
+[2025.06.06-12.22.54:247][741]LogOutputDevice: Error: 
+[2025.06.06-12.22.54:252][741]LogStats:                SubmitErrorReport -  0.000 s
+[2025.06.06-12.22.56:580][741]LogStats:                    SendNewReport -  2.328 s
+[2025.06.06-12.22.56:580][741]LogStats:             FDebug::EnsureFailed -  2.361 s
+[2025.06.06-12.22.56:585][742]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.56:628][742]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.56:761][743]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.56:762][743]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.56:867][744]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.56:867][744]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.56:892][745]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.56:892][745]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.56:905][746]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.56:906][746]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.56:924][747]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.56:925][747]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.56:973][748]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.56:973][748]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:001][749]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:001][749]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:027][750]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:027][750]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:053][751]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:053][751]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:081][752]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:082][752]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:128][753]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:128][753]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:150][754]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:150][754]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:200][755]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:200][755]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:229][756]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:230][756]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:255][757]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:255][757]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:281][758]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:281][758]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:313][759]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:313][759]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:357][760]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:357][760]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:379][761]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:379][761]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:405][762]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:405][762]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:454][763]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:454][763]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:482][764]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:482][764]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:507][765]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:507][765]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:535][766]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:536][766]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:580][767]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:580][767]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:604][768]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:604][768]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:631][769]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:631][769]LogUnrealMath: Error: TMatrix<T>::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2025.06.06-12.22.57:659][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.06-12.22.57:659][769]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2025.06.06-12.22.57:714][769]LogSlate: Window 'vrspeed 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.109.0)' being destroyed
+[2025.06.06-12.22.57:718][769]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-12.22.57:719][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-12.22.57:723][769]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.06-12.22.57:733][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-12.22.57:763][769]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 52
+[2025.06.06-12.22.57:763][769]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2025.06.06-12.22.57:767][769]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2025.06.06-12.22.57:778][769]LogSlate: Slate User Unregistered.  User Index 8
+[2025.06.06-12.22.57:779][769]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.06.06-12.22.57:781][769]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2025.06.06-12.22.57:838][770]LogPlayLevel: Display: Destroying online subsystem :Context_116
+[2025.06.06-12.23.04:917][155]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/VRTemplate/Blueprints/WBP_SpeedTablet.WBP_SpeedTablet
+[2025.06.06-12.23.04:918][155]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_83
+[2025.06.06-12.23.04:919][155]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_83'.
+[2025.06.06-12.23.04:939][155]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_84
+[2025.06.06-12.23.04:939][155]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_84'.
+[2025.06.06-12.23.06:733][194]LogSlate: Window 'WBP_SpeedTablet' being destroyed
+[2025.06.06-12.23.06:787][194]LogSlate: Window 'WBP_SpeedTablet' being destroyed
+[2025.06.06-12.23.06:809][194]LogWorld: UWorld::CleanupWorld for World_84, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-12.23.06:809][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-12.23.06:818][194]LogWorld: UWorld::CleanupWorld for World_83, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-12.23.06:818][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-12.23.06:900][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.06.06-12.23.29:855][ 72]LogDebuggerCommands: Repeating last play command: VR 프리뷰
+[2025.06.06-12.23.29:870][ 72]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.06-12.23.29:871][ 72]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2025.06.06-12.23.29:877][ 72]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006637s)
+[2025.06.06-12.23.29:877][ 72]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.006707s)
+[2025.06.06-12.23.29:915][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2025.06.06-12.23.29:925][ 72]LogChaosDD: Creating Chaos Debug Draw Scene for world VRTemplateMap
+[2025.06.06-12.23.29:928][ 72]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap'.
+[2025.06.06-12.23.29:929][ 72]LogPlayLevel: PIE: World Init took: (0.003604s)
+[2025.06.06-12.23.29:931][ 72]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2025.06.06-12.23.29:931][ 72]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.06-12.23.29:931][ 72]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.06-12.23.29:931][ 72]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.06-12.23.29:931][ 72]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.06-12.23.29:931][ 72]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.06-12.23.29:931][ 72]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.06-12.23.29:931][ 72]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.06-12.23.29:931][ 72]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.06-12.23.29:931][ 72]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.06-12.23.29:931][ 72]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.06-12.23.29:931][ 72]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.06-12.23.29:940][ 72]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.06-12.23.30:005][ 72]LogAudioMixer: Display: Using Audio Hardware Device 헤드폰(Oculus Virtual Audio Device)
+[2025.06.06-12.23.30:007][ 72]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.06-12.23.30:007][ 72]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.06-12.23.30:007][ 72]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.06-12.23.30:007][ 72]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=53
+[2025.06.06-12.23.30:007][ 72]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=53
+[2025.06.06-12.23.30:013][ 72]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=53
+[2025.06.06-12.23.30:013][ 72]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=53
+[2025.06.06-12.23.30:013][ 72]LogInit: FAudioDevice initialized with ID 53.
+[2025.06.06-12.23.30:013][ 72]LogAudio: Display: Audio Device (ID: 53) registered with world 'VRTemplateMap'.
+[2025.06.06-12.23.30:013][ 72]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 53
+[2025.06.06-12.23.30:064][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.06-12.23.30:413][ 72]LogLoad: Game class is 'VRGameMode_C'
+[2025.06.06-12.23.30:417][ 72]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2025.06.06-21.23.30
+[2025.06.06-12.23.30:418][ 72]LogWorld: Bringing up level for play took: 0.003534
+[2025.06.06-12.23.30:426][ 72]LogOnline: OSS: Created online subsystem instance for: :Context_119
+[2025.06.06-12.23.30:429][ 72]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.06.06-12.23.30:432][ 72]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.06.06-12.23.30:452][ 72]PIE: 서버가 로그인했습니다.
+[2025.06.06-12.23.30:459][ 72]PIE: 에디터에서 플레이 총 시작 시간 0.59초입니다.
+[2025.06.06-12.23.30:460][ 72]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2025.06.06-12.23.30:493][ 72]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2025.06.06-12.23.39:740][337]LogBlueprintUserMessages: [Player_C_0] click
+[2025.06.06-12.23.39:740][337]LogBlueprintUserMessages: [WBP_SpeedTablet_C_1] start
+[2025.06.06-12.23.39:740][337]LogBlueprintUserMessages: [WBP_SpeedTablet_C_1] Start
+[2025.06.06-12.23.39:740][337]LogBlueprintUserMessages: [WBP_SpeedTablet_C_1] 1.5
+[2025.06.06-12.23.39:754][338]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2025.06.06-12.23.39:837][340]LogBlueprintUserMessages: [Player_C_0] release
+[2025.06.06-12.23.44:418][479]LogBlueprintUserMessages: [Player_C_0] click
+[2025.06.06-12.23.44:418][479]LogBlueprintUserMessages: [WBP_SpeedTablet_C_1] minus
+[2025.06.06-12.23.44:418][479]LogBlueprintUserMessages: [WBP_SpeedTablet_C_1] 1.2
+[2025.06.06-12.23.44:491][481]LogBlueprintUserMessages: [Player_C_0] release
+[2025.06.06-12.23.46:759][549]LogBlueprintUserMessages: [Player_C_0] click
+[2025.06.06-12.23.46:760][549]LogBlueprintUserMessages: [WBP_SpeedTablet_C_1] plus
+[2025.06.06-12.23.46:760][549]LogBlueprintUserMessages: [WBP_SpeedTablet_C_1] 1.5
+[2025.06.06-12.23.46:882][553]LogBlueprintUserMessages: [Player_C_0] release
+[2025.06.06-12.23.49:127][620]LogBlueprintUserMessages: [Player_C_0] click
+[2025.06.06-12.23.49:127][620]LogBlueprintUserMessages: [WBP_SpeedTablet_C_1] plus
+[2025.06.06-12.23.49:127][620]LogBlueprintUserMessages: [WBP_SpeedTablet_C_1] 1.8
+[2025.06.06-12.23.49:226][623]LogBlueprintUserMessages: [Player_C_0] release
+[2025.06.06-12.23.56:188][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.06-12.23.56:189][839]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2025.06.06-12.23.56:241][839]LogSlate: Window 'vrspeed 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.109.0)' being destroyed
+[2025.06.06-12.23.56:247][839]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-12.23.56:247][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-12.23.56:251][839]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.06-12.23.56:259][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-12.23.56:282][839]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 53
+[2025.06.06-12.23.56:282][839]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2025.06.06-12.23.56:286][839]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2025.06.06-12.23.56:295][839]LogSlate: Slate User Unregistered.  User Index 8
+[2025.06.06-12.23.56:295][839]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.06.06-12.23.56:296][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.06.06-12.23.56:448][840]LogPlayLevel: Display: Destroying online subsystem :Context_119
+[2025.06.06-12.23.59:028][963]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/VRTemplate/Blueprints/WBP_SpeedTablet.WBP_SpeedTablet
+[2025.06.06-12.23.59:029][963]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_85
+[2025.06.06-12.23.59:030][963]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_85'.
+[2025.06.06-12.23.59:052][963]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_86
+[2025.06.06-12.23.59:052][963]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_86'.
+[2025.06.06-12.24.41:729][981]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15242.773438
+[2025.06.06-12.24.42:114][989]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.06-12.24.42:114][989]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15243.112305, Update Interval: 316.805939
+[2025.06.06-12.25.29:786][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.06.06-12.25.29:960][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.06-12.25.30:113][ 66]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet] ([2] browsable assets)...
+[2025.06.06-12.25.30:129][ 66]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/VRTemplate/Blueprints/WBP_SpeedTablet.WBP_SpeedTablet]
+[2025.06.06-12.25.30:129][ 66]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet]
+[2025.06.06-12.25.30:129][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/WBP_SpeedTablet" FILE="../../../../../../Projects/VRProject/VRproject/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset" SILENT=true
+[2025.06.06-12.25.30:141][ 66]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/WBP_SpeedTablet
+[2025.06.06-12.25.30:142][ 66]LogSavePackage: Moving '../../../../../../Projects/VRProject/VRproject/Saved/WBP_SpeedTablet0FBE4BB6442B60357A1BAA84F23F931F.tmp' to '../../../../../../Projects/VRProject/VRproject/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset'
+[2025.06.06-12.25.30:170][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave took 210.322 ms (total: 9.72 sec)
+[2025.06.06-12.25.30:297][ 66]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.06-12.25.30:297][ 66]LogContentValidation: Enabled validators:
+[2025.06.06-12.25.30:297][ 66]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.06-12.25.30:297][ 66]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.06-12.25.30:297][ 66]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.06-12.25.30:297][ 66]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.06-12.25.30:297][ 66]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.06-12.25.30:297][ 66]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.06-12.25.30:297][ 66]AssetCheck: /Game/VRTemplate/Blueprints/WBP_SpeedTablet 에셋 유효성 검사 중
+[2025.06.06-12.26.31:704][549]LogSlate: Window 'WBP_SpeedTablet' being destroyed
+[2025.06.06-12.26.31:759][549]LogSlate: Window 'WBP_SpeedTablet' being destroyed
+[2025.06.06-12.26.31:776][549]LogWorld: UWorld::CleanupWorld for World_86, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-12.26.31:776][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-12.26.31:786][549]LogWorld: UWorld::CleanupWorld for World_85, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-12.26.31:786][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-12.26.31:904][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.06.06-12.26.39:402][881]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/VRTemplate/Input/IMC_Menu.IMC_Menu
+[2025.06.06-12.26.51:197][128]LogSlate: Window 'IMC_Menu' being destroyed
+[2025.06.06-12.26.51:265][128]LogSlate: Window 'IMC_Menu' being destroyed
+[2025.06.06-12.26.54:011][249]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.06-12.26.54:200][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.06.06-12.26.54:223][249]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.06.06-12.26.54:224][249]LogSavePackage: Moving '../../../../../../Projects/VRProject/VRproject/Saved/VRTemplateMap93DA12B845AB883C75852A88AC69D4E6.tmp' to '../../../../../../Projects/VRProject/VRproject/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.06.06-12.26.54:233][249]LogFileHelpers: 모든 파일이 이미 저장되었습니다.
+[2025.06.06-12.26.54:234][249]LogFileHelpers: Saving map 'VRTemplateMap' took 0.107
+[2025.06.06-12.26.54:263][249]LogFileHelpers: InternalPromptForCheckoutAndSave took 251.877 ms (total: 9.97 sec)
+[2025.06.06-12.26.54:344][249]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.06-12.26.54:344][249]LogContentValidation: Enabled validators:
+[2025.06.06-12.26.54:344][249]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.06-12.26.54:344][249]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.06-12.26.54:344][249]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.06-12.26.54:344][249]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.06-12.26.54:344][249]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.06-12.26.54:344][249]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.06-12.26.54:344][249]AssetCheck: /Game/VRTemplate/Maps/VRTemplateMap 에셋 유효성 검사 중
+[2025.06.06-12.26.58:639][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.06.06-12.26.58:647][375]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.06-12.26.58:730][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet] ([2] browsable assets)...
+[2025.06.06-12.26.58:730][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet]
+[2025.06.06-12.26.58:730][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/WBP_SpeedTablet" FILE="../../../../../../Projects/VRProject/VRproject/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset" SILENT=true
+[2025.06.06-12.26.58:741][375]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/WBP_SpeedTablet
+[2025.06.06-12.26.58:742][375]LogSavePackage: Moving '../../../../../../Projects/VRProject/VRproject/Saved/WBP_SpeedTabletF8226A5C497D94CCAB155991012CEA3F.tmp' to '../../../../../../Projects/VRProject/VRproject/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset'
+[2025.06.06-12.26.58:744][375]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VRTemplate/Input/IMC_Menu] ([1] browsable assets)...
+[2025.06.06-12.26.58:744][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Input/IMC_Menu]
+[2025.06.06-12.26.58:744][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Input/IMC_Menu" FILE="../../../../../../Projects/VRProject/VRproject/Content/VRTemplate/Input/IMC_Menu.uasset" SILENT=true
+[2025.06.06-12.26.58:746][375]LogSavePackage: Moving output files for package: /Game/VRTemplate/Input/IMC_Menu
+[2025.06.06-12.26.58:747][375]LogSavePackage: Moving '../../../../../../Projects/VRProject/VRproject/Saved/IMC_Menu5B10B9394F190F1754D833A7CB56A7C8.tmp' to '../../../../../../Projects/VRProject/VRproject/Content/VRTemplate/Input/IMC_Menu.uasset'
+[2025.06.06-12.26.58:781][375]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.206 ms (total: 10.1 sec)
+[2025.06.06-12.26.58:860][375]LogContentValidation: Display: Starting to validate 2 assets
+[2025.06.06-12.26.58:860][375]LogContentValidation: Enabled validators:
+[2025.06.06-12.26.58:860][375]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.06-12.26.58:860][375]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.06-12.26.58:860][375]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.06-12.26.58:860][375]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.06-12.26.58:860][375]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.06-12.26.58:860][375]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.06-12.26.58:862][375]AssetCheck: /Game/VRTemplate/Blueprints/WBP_SpeedTablet 에셋 유효성 검사 중
+[2025.06.06-12.26.58:862][375]AssetCheck: /Game/VRTemplate/Input/IMC_Menu 에셋 유효성 검사 중
+[2025.06.06-12.27.06:729][673]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/VRTemplate/Blueprints/WBP_SpeedTablet.WBP_SpeedTablet
+[2025.06.06-12.27.06:730][673]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_89
+[2025.06.06-12.27.06:730][673]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_89'.
+[2025.06.06-12.27.06:749][673]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_90
+[2025.06.06-12.27.06:750][673]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_90'.
+[2025.06.06-12.28.01:674][946]LogEditorTransaction: Undo 현재 선택된 부분을 삭제합니다.
+[2025.06.06-12.29.34:092][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.06.06-12.29.34:134][371]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.06-12.29.34:204][371]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet] ([2] browsable assets)...
+[2025.06.06-12.29.34:220][371]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/VRTemplate/Blueprints/WBP_SpeedTablet.WBP_SpeedTablet]
+[2025.06.06-12.29.34:220][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet]
+[2025.06.06-12.29.34:220][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/WBP_SpeedTablet" FILE="../../../../../../Projects/VRProject/VRproject/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset" SILENT=true
+[2025.06.06-12.29.34:232][371]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/WBP_SpeedTablet
+[2025.06.06-12.29.34:233][371]LogSavePackage: Moving '../../../../../../Projects/VRProject/VRproject/Saved/WBP_SpeedTablet031AF3DF49A8F39864419F8750B9D659.tmp' to '../../../../../../Projects/VRProject/VRproject/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset'
+[2025.06.06-12.29.34:261][371]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.972 ms (total: 10.2 sec)
+[2025.06.06-12.29.34:338][371]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.06-12.29.34:338][371]LogContentValidation: Enabled validators:
+[2025.06.06-12.29.34:338][371]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.06-12.29.34:338][371]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.06-12.29.34:338][371]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.06-12.29.34:338][371]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.06-12.29.34:338][371]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.06-12.29.34:338][371]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.06-12.29.34:339][371]AssetCheck: /Game/VRTemplate/Blueprints/WBP_SpeedTablet 에셋 유효성 검사 중
+[2025.06.06-12.29.35:212][389]LogSlate: Window 'WBP_SpeedTablet' being destroyed
+[2025.06.06-12.29.35:267][389]LogSlate: Window 'WBP_SpeedTablet' being destroyed
+[2025.06.06-12.29.35:285][389]LogWorld: UWorld::CleanupWorld for World_90, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-12.29.35:285][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-12.29.35:295][389]LogWorld: UWorld::CleanupWorld for World_89, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-12.29.35:295][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-12.29.35:386][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.06.06-12.29.36:565][438]LogDebuggerCommands: Repeating last play command: VR 프리뷰
+[2025.06.06-12.29.36:572][438]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.06-12.29.36:572][438]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2025.06.06-12.29.36:576][438]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003518s)
+[2025.06.06-12.29.36:577][438]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.003562s)
+[2025.06.06-12.29.36:603][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.06.06-12.29.36:609][438]LogChaosDD: Creating Chaos Debug Draw Scene for world VRTemplateMap
+[2025.06.06-12.29.36:610][438]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap'.
+[2025.06.06-12.29.36:611][438]LogPlayLevel: PIE: World Init took: (0.002072s)
+[2025.06.06-12.29.36:612][438]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2025.06.06-12.29.36:612][438]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.06-12.29.36:612][438]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.06-12.29.36:612][438]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.06-12.29.36:612][438]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.06-12.29.36:612][438]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.06-12.29.36:612][438]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.06-12.29.36:612][438]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.06-12.29.36:612][438]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.06-12.29.36:612][438]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.06-12.29.36:612][438]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.06-12.29.36:612][438]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.06-12.29.36:615][438]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.06-12.29.37:659][438]LogAudioMixer: Display: Using Audio Hardware Device 헤드폰(Oculus Virtual Audio Device)
+[2025.06.06-12.29.37:659][438]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.06-12.29.37:659][438]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.06-12.29.37:659][438]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.06-12.29.37:660][438]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=54
+[2025.06.06-12.29.37:660][438]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=54
+[2025.06.06-12.29.37:664][438]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=54
+[2025.06.06-12.29.37:664][438]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=54
+[2025.06.06-12.29.37:664][438]LogInit: FAudioDevice initialized with ID 54.
+[2025.06.06-12.29.37:664][438]LogAudio: Display: Audio Device (ID: 54) registered with world 'VRTemplateMap'.
+[2025.06.06-12.29.37:664][438]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 54
+[2025.06.06-12.29.37:700][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.06-12.29.37:702][438]LogHMD: Warning: xrCreateSession failed.
+[2025.06.06-12.29.37:806][438]LogLoad: Game class is 'VRGameMode_C'
+[2025.06.06-12.29.37:811][438]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2025.06.06-21.29.37
+[2025.06.06-12.29.37:812][438]LogWorld: Bringing up level for play took: 0.004628
+[2025.06.06-12.29.37:818][438]LogOnline: OSS: Created online subsystem instance for: :Context_124
+[2025.06.06-12.29.37:820][438]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.06.06-12.29.37:824][438]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.06.06-12.29.37:835][438]PIE: 서버가 로그인했습니다.
+[2025.06.06-12.29.37:839][438]PIE: 에디터에서 플레이 총 시작 시간 1.267초입니다.
+[2025.06.06-12.29.58:722][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.06-12.29.58:722][740]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2025.06.06-12.29.58:766][740]LogSlate: Window 'vrspeed 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.109.0)' being destroyed
+[2025.06.06-12.29.58:773][740]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-12.29.58:774][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-12.29.58:778][740]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.06-12.29.58:786][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-12.29.58:815][740]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 54
+[2025.06.06-12.29.58:815][740]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
+[2025.06.06-12.29.58:818][740]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
+[2025.06.06-12.29.58:829][740]LogSlate: Slate User Unregistered.  User Index 8
+[2025.06.06-12.29.58:829][740]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.06.06-12.29.58:831][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.06.06-12.29.58:884][741]LogPlayLevel: Display: Destroying online subsystem :Context_124
+[2025.06.06-12.30.14:187][434]LogDebuggerCommands: Repeating last play command: VR 프리뷰
+[2025.06.06-12.30.14:205][434]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.06-12.30.14:205][434]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2025.06.06-12.30.14:212][434]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006601s)
+[2025.06.06-12.30.14:212][434]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.006660s)
+[2025.06.06-12.30.14:249][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.06.06-12.30.14:262][434]LogChaosDD: Creating Chaos Debug Draw Scene for world VRTemplateMap
+[2025.06.06-12.30.14:264][434]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap'.
+[2025.06.06-12.30.14:265][434]LogPlayLevel: PIE: World Init took: (0.002575s)
+[2025.06.06-12.30.14:266][434]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2025.06.06-12.30.14:266][434]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.06-12.30.14:266][434]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.06-12.30.14:266][434]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.06-12.30.14:266][434]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.06-12.30.14:266][434]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.06-12.30.14:266][434]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.06-12.30.14:266][434]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.06-12.30.14:266][434]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.06-12.30.14:266][434]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.06-12.30.14:266][434]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.06-12.30.14:266][434]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.06-12.30.14:270][434]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.06-12.30.14:331][434]LogAudioMixer: Display: Using Audio Hardware Device 헤드폰(Oculus Virtual Audio Device)
+[2025.06.06-12.30.14:332][434]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.06-12.30.14:333][434]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.06-12.30.14:333][434]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.06-12.30.14:336][434]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=55
+[2025.06.06-12.30.14:336][434]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=55
+[2025.06.06-12.30.14:340][434]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=55
+[2025.06.06-12.30.14:340][434]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=55
+[2025.06.06-12.30.14:340][434]LogInit: FAudioDevice initialized with ID 55.
+[2025.06.06-12.30.14:340][434]LogAudio: Display: Audio Device (ID: 55) registered with world 'VRTemplateMap'.
+[2025.06.06-12.30.14:340][434]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 55
+[2025.06.06-12.30.14:390][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.06-12.30.14:739][434]LogLoad: Game class is 'VRGameMode_C'
+[2025.06.06-12.30.14:745][434]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2025.06.06-21.30.14
+[2025.06.06-12.30.14:745][434]LogWorld: Bringing up level for play took: 0.004861
+[2025.06.06-12.30.14:754][434]LogOnline: OSS: Created online subsystem instance for: :Context_125
+[2025.06.06-12.30.14:757][434]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.06.06-12.30.14:760][434]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.06.06-12.30.14:780][434]PIE: 서버가 로그인했습니다.
+[2025.06.06-12.30.14:788][434]PIE: 에디터에서 플레이 총 시작 시간 0.583초입니다.
+[2025.06.06-12.30.14:789][434]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2025.06.06-12.30.14:814][434]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2025.06.06-12.30.16:977][486]LogBlueprintUserMessages: [Player_C_0] click
+[2025.06.06-12.30.16:977][486]LogBlueprintUserMessages: [WBP_SpeedTablet_C_1] start
+[2025.06.06-12.30.16:977][486]LogBlueprintUserMessages: [WBP_SpeedTablet_C_1] Start
+[2025.06.06-12.30.16:977][486]LogBlueprintUserMessages: [WBP_SpeedTablet_C_1] 1.5
+[2025.06.06-12.30.16:991][487]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2025.06.06-12.30.17:084][489]LogBlueprintUserMessages: [Player_C_0] release
+[2025.06.06-12.30.18:229][522]LogBlueprintUserMessages: [Player_C_0] click
+[2025.06.06-12.30.18:229][522]LogBlueprintUserMessages: [WBP_SpeedTablet_C_1] plus
+[2025.06.06-12.30.18:229][522]LogBlueprintUserMessages: [WBP_SpeedTablet_C_1] 1.8
+[2025.06.06-12.30.18:415][527]LogBlueprintUserMessages: [Player_C_0] release
+[2025.06.06-12.30.22:281][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.06-12.30.22:281][646]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2025.06.06-12.30.22:336][646]LogSlate: Window 'vrspeed 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.109.0)' being destroyed
+[2025.06.06-12.30.22:342][646]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-12.30.22:343][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-12.30.22:348][646]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.06-12.30.22:357][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-12.30.22:386][646]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 55
+[2025.06.06-12.30.22:386][646]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2025.06.06-12.30.22:390][646]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2025.06.06-12.30.22:400][646]LogSlate: Slate User Unregistered.  User Index 8
+[2025.06.06-12.30.22:400][646]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.06.06-12.30.22:403][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.06.06-12.30.22:464][647]LogPlayLevel: Display: Destroying online subsystem :Context_125
+[2025.06.06-12.30.29:937][916]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/VRTemplate/Blueprints/WBP_SpeedTablet.WBP_SpeedTablet
+[2025.06.06-12.30.29:937][916]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_92
+[2025.06.06-12.30.29:938][916]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_92'.
+[2025.06.06-12.30.29:959][916]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_93
+[2025.06.06-12.30.29:960][916]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_93'.
+[2025.06.06-12.30.37:918][111]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15598.934570
+[2025.06.06-12.30.38:243][121]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.06-12.30.38:243][121]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15599.226562, Update Interval: 308.071533
+[2025.06.06-12.31.10:797][ 26]LogEditorTransaction: Undo 현재 선택된 부분을 삭제합니다.
+[2025.06.06-12.31.20:300][258]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.06-12.31.20:442][258]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet] ([2] browsable assets)...
+[2025.06.06-12.31.20:458][258]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/VRTemplate/Blueprints/WBP_SpeedTablet.WBP_SpeedTablet]
+[2025.06.06-12.31.20:459][258]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet]
+[2025.06.06-12.31.20:459][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/WBP_SpeedTablet" FILE="../../../../../../Projects/VRProject/VRproject/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset" SILENT=true
+[2025.06.06-12.31.20:470][258]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/WBP_SpeedTablet
+[2025.06.06-12.31.20:472][258]LogSavePackage: Moving '../../../../../../Projects/VRProject/VRproject/Saved/WBP_SpeedTablet858FC588475BF2230B0F5C901B8716D8.tmp' to '../../../../../../Projects/VRProject/VRproject/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset'
+[2025.06.06-12.31.20:498][258]LogFileHelpers: InternalPromptForCheckoutAndSave took 198.471 ms (total: 10.4 sec)
+[2025.06.06-12.31.20:586][258]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.06-12.31.20:586][258]LogContentValidation: Enabled validators:
+[2025.06.06-12.31.20:586][258]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.06-12.31.20:586][258]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.06-12.31.20:586][258]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.06-12.31.20:586][258]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.06-12.31.20:586][258]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.06-12.31.20:586][258]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.06-12.31.20:587][258]AssetCheck: /Game/VRTemplate/Blueprints/WBP_SpeedTablet 에셋 유효성 검사 중
+[2025.06.06-12.31.21:957][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.06.06-12.31.23:161][321]LogSlate: Window 'WBP_SpeedTablet' being destroyed
+[2025.06.06-12.31.23:214][321]LogSlate: Window 'WBP_SpeedTablet' being destroyed
+[2025.06.06-12.31.23:232][321]LogWorld: UWorld::CleanupWorld for World_93, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-12.31.23:232][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-12.31.23:241][321]LogWorld: UWorld::CleanupWorld for World_92, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-12.31.23:241][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-12.31.23:339][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.06.06-12.31.24:589][374]LogDebuggerCommands: Repeating last play command: VR 프리뷰
+[2025.06.06-12.31.24:597][374]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.06-12.31.24:597][374]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2025.06.06-12.31.24:601][374]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003754s)
+[2025.06.06-12.31.24:601][374]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.003800s)
+[2025.06.06-12.31.24:626][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.06.06-12.31.24:630][374]LogChaosDD: Creating Chaos Debug Draw Scene for world VRTemplateMap
+[2025.06.06-12.31.24:632][374]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap'.
+[2025.06.06-12.31.24:632][374]LogPlayLevel: PIE: World Init took: (0.002048s)
+[2025.06.06-12.31.24:633][374]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2025.06.06-12.31.24:633][374]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.06-12.31.24:633][374]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.06-12.31.24:633][374]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.06-12.31.24:633][374]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.06-12.31.24:633][374]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.06-12.31.24:633][374]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.06-12.31.24:633][374]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.06-12.31.24:633][374]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.06-12.31.24:633][374]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.06-12.31.24:633][374]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.06-12.31.24:633][374]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.06-12.31.24:637][374]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.06-12.31.24:671][374]LogAudioMixer: Display: Using Audio Hardware Device 헤드폰(Oculus Virtual Audio Device)
+[2025.06.06-12.31.24:671][374]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.06-12.31.24:672][374]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.06-12.31.24:672][374]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.06-12.31.24:672][374]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=56
+[2025.06.06-12.31.24:672][374]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=56
+[2025.06.06-12.31.24:675][374]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=56
+[2025.06.06-12.31.24:675][374]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=56
+[2025.06.06-12.31.24:675][374]LogInit: FAudioDevice initialized with ID 56.
+[2025.06.06-12.31.24:675][374]LogAudio: Display: Audio Device (ID: 56) registered with world 'VRTemplateMap'.
+[2025.06.06-12.31.24:675][374]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 56
+[2025.06.06-12.31.24:706][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.06-12.31.24:886][374]LogLoad: Game class is 'VRGameMode_C'
+[2025.06.06-12.31.24:890][374]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2025.06.06-21.31.24
+[2025.06.06-12.31.24:890][374]LogWorld: Bringing up level for play took: 0.003303
+[2025.06.06-12.31.24:894][374]LogOnline: OSS: Created online subsystem instance for: :Context_128
+[2025.06.06-12.31.24:896][374]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.06.06-12.31.24:898][374]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.06.06-12.31.24:906][374]PIE: 서버가 로그인했습니다.
+[2025.06.06-12.31.24:909][374]PIE: 에디터에서 플레이 총 시작 시간 0.311초입니다.
+[2025.06.06-12.31.24:920][374]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2025.06.06-12.31.30:504][547]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2025.06.06-12.31.35:380][681]LogBlueprintUserMessages: [Player_C_0] click
+[2025.06.06-12.31.35:380][681]LogBlueprintUserMessages: [WBP_SpeedTablet_C_1] start
+[2025.06.06-12.31.35:380][681]LogBlueprintUserMessages: [WBP_SpeedTablet_C_1] Start
+[2025.06.06-12.31.35:380][681]LogBlueprintUserMessages: [WBP_SpeedTablet_C_1] 1.8
+[2025.06.06-12.31.35:393][682]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2025.06.06-12.31.35:507][685]LogBlueprintUserMessages: [Player_C_0] release
+[2025.06.06-12.31.41:440][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.06-12.31.41:440][868]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2025.06.06-12.31.41:501][868]LogSlate: Window 'vrspeed 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.109.0)' being destroyed
+[2025.06.06-12.31.41:505][868]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-12.31.41:507][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-12.31.41:510][868]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.06-12.31.41:517][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-12.31.41:538][868]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 56
+[2025.06.06-12.31.41:538][868]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2025.06.06-12.31.41:541][868]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2025.06.06-12.31.41:551][868]LogSlate: Slate User Unregistered.  User Index 8
+[2025.06.06-12.31.41:551][868]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.06.06-12.31.41:553][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.06.06-12.31.41:749][869]LogPlayLevel: Display: Destroying online subsystem :Context_128
+[2025.06.06-12.32.12:392][193]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Player.Player
+[2025.06.06-12.32.12:394][193]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_95
+[2025.06.06-12.32.12:396][193]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_95'.
+[2025.06.06-12.33.13:377][535]LogSlate: Window 'Player' being destroyed
+[2025.06.06-12.33.13:444][535]LogSlate: Window 'Player' being destroyed
+[2025.06.06-12.33.13:449][535]LogWorld: UWorld::CleanupWorld for World_95, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-12.33.13:450][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-12.33.13:661][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.06.06-12.33.14:470][569]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/VRTemplate/Blueprints/WBP_SpeedTablet.WBP_SpeedTablet
+[2025.06.06-12.33.14:471][569]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_96
+[2025.06.06-12.33.14:472][569]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_96'.
+[2025.06.06-12.33.14:490][569]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_97
+[2025.06.06-12.33.14:491][569]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_97'.
+[2025.06.06-12.33.33:563][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.06-12.33.33:653][ 32]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet] ([2] browsable assets)...
+[2025.06.06-12.33.33:670][ 32]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/VRTemplate/Blueprints/WBP_SpeedTablet.WBP_SpeedTablet]
+[2025.06.06-12.33.33:670][ 32]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/WBP_SpeedTablet]
+[2025.06.06-12.33.33:670][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/WBP_SpeedTablet" FILE="../../../../../../Projects/VRProject/VRproject/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset" SILENT=true
+[2025.06.06-12.33.33:683][ 32]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/WBP_SpeedTablet
+[2025.06.06-12.33.33:684][ 32]LogSavePackage: Moving '../../../../../../Projects/VRProject/VRproject/Saved/WBP_SpeedTablet1E519644407D54586868288D934A12E1.tmp' to '../../../../../../Projects/VRProject/VRproject/Content/VRTemplate/Blueprints/WBP_SpeedTablet.uasset'
+[2025.06.06-12.33.33:713][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave took 150.578 ms (total: 10.5 sec)
+[2025.06.06-12.33.33:819][ 32]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.06-12.33.33:819][ 32]LogContentValidation: Enabled validators:
+[2025.06.06-12.33.33:819][ 32]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.06-12.33.33:819][ 32]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.06-12.33.33:819][ 32]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.06-12.33.33:819][ 32]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.06-12.33.33:819][ 32]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.06-12.33.33:819][ 32]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.06-12.33.33:820][ 32]AssetCheck: /Game/VRTemplate/Blueprints/WBP_SpeedTablet 에셋 유효성 검사 중
+[2025.06.06-12.33.34:868][ 56]LogSlate: Window 'WBP_SpeedTablet' being destroyed
+[2025.06.06-12.33.34:922][ 56]LogSlate: Window 'WBP_SpeedTablet' being destroyed
+[2025.06.06-12.33.34:940][ 56]LogWorld: UWorld::CleanupWorld for World_97, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-12.33.34:940][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-12.33.34:950][ 56]LogWorld: UWorld::CleanupWorld for World_96, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-12.33.34:950][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-12.33.35:140][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.06.06-12.33.38:210][194]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/VRTemplate/Blueprints/WBP_SpeedTablet.WBP_SpeedTablet
+[2025.06.06-12.33.38:210][194]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_99
+[2025.06.06-12.33.38:212][194]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_99'.
+[2025.06.06-12.33.38:232][194]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_100
+[2025.06.06-12.33.38:233][194]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_100'.
+[2025.06.06-12.33.39:588][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.06.06-12.33.40:278][232]LogSlate: Window 'WBP_SpeedTablet' being destroyed
+[2025.06.06-12.33.40:334][232]LogSlate: Window 'WBP_SpeedTablet' being destroyed
+[2025.06.06-12.33.40:364][232]LogWorld: UWorld::CleanupWorld for World_100, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-12.33.40:364][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-12.33.40:374][232]LogWorld: UWorld::CleanupWorld for World_99, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-12.33.40:375][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-12.33.40:437][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.06.06-12.34.35:224][559]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.06-12.34.35:377][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.06.06-12.34.35:397][559]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.06.06-12.34.35:398][559]LogSavePackage: Moving '../../../../../../Projects/VRProject/VRproject/Saved/VRTemplateMap86E4881A4CDF28833CAF41A42FE13F36.tmp' to '../../../../../../Projects/VRProject/VRproject/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.06.06-12.34.35:407][559]LogFileHelpers: 모든 파일이 이미 저장되었습니다.
+[2025.06.06-12.34.35:407][559]LogFileHelpers: Saving map 'VRTemplateMap' took 0.072
+[2025.06.06-12.34.35:434][559]LogFileHelpers: InternalPromptForCheckoutAndSave took 210.508 ms (total: 10.7 sec)
+[2025.06.06-12.34.35:520][559]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.06-12.34.35:520][559]LogContentValidation: Enabled validators:
+[2025.06.06-12.34.35:520][559]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.06-12.34.35:520][559]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.06-12.34.35:520][559]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.06-12.34.35:520][559]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.06-12.34.35:520][559]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.06-12.34.35:520][559]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.06-12.34.35:520][559]AssetCheck: /Game/VRTemplate/Maps/VRTemplateMap 에셋 유효성 검사 중
